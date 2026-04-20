@@ -1,0 +1,249 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-noto-sans-jp), ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --sea-midnight: #050d1a;
+  --sea-deep: #0a1e36;
+  --sea-surface: #0f2d4d;
+  --moon-glow: #b8d4f0;
+  --foam: #e8f4ff;
+}
+
+body {
+  min-height: 100%;
+  color: var(--foam);
+  background: linear-gradient(
+    165deg,
+    var(--sea-midnight) 0%,
+    #071426 35%,
+    var(--sea-deep) 55%,
+    var(--sea-surface) 85%,
+    #0a2540 100%
+  );
+  background-attachment: fixed;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    radial-gradient(1.5px 1.5px at 12% 18%, rgba(255, 255, 255, 0.55), transparent),
+    radial-gradient(1px 1px at 28% 8%, rgba(255, 255, 255, 0.35), transparent),
+    radial-gradient(1.5px 1.5px at 44% 22%, rgba(255, 255, 255, 0.45), transparent),
+    radial-gradient(1px 1px at 63% 12%, rgba(255, 255, 255, 0.4), transparent),
+    radial-gradient(1.5px 1.5px at 78% 28%, rgba(255, 255, 255, 0.5), transparent),
+    radial-gradient(1px 1px at 88% 9%, rgba(255, 255, 255, 0.35), transparent),
+    radial-gradient(1px 1px at 91% 42%, rgba(255, 255, 255, 0.3), transparent),
+    radial-gradient(120% 60% at 50% 100%, rgba(20, 80, 120, 0.35), transparent 55%);
+  opacity: 0.9;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 28vh;
+  pointer-events: none;
+  background: linear-gradient(
+    180deg,
+    transparent 0%,
+    rgba(6, 40, 70, 0.25) 40%,
+    rgba(4, 30, 55, 0.55) 100%
+  );
+}
+
+@keyframes wave-shimmer {
+  0%,
+  100% {
+    opacity: 0.35;
+  }
+  50% {
+    opacity: 0.55;
+  }
+}
+
+.wave-shimmer {
+  animation: wave-shimmer 5s ease-in-out infinite;
+}
+
+@keyframes sea-float-y {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes sea-float-slow {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-14px) rotate(2deg);
+  }
+}
+
+.sea-float-bottle {
+  animation: sea-float-y 5.5s ease-in-out infinite;
+}
+
+.sea-float-bottle-slow {
+  animation: sea-float-slow 8s ease-in-out infinite;
+}
+
+@keyframes wave-slide {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-25%);
+  }
+}
+
+.wave-layer-1 {
+  animation: wave-slide 22s linear infinite;
+}
+
+.wave-layer-2 {
+  animation: wave-slide 28s linear infinite reverse;
+}
+
+@keyframes moon-glow {
+  0%,
+  100% {
+    opacity: 0.85;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.03);
+  }
+}
+
+.sea-moon {
+  animation: moon-glow 10s ease-in-out infinite;
+}
+
+@keyframes shore-send {
+  0% {
+    transform: translate(0, 0) rotate(-10deg) scale(1);
+    opacity: 1;
+    filter: blur(0);
+  }
+  18% {
+    transform: translate(-3vw, -12vh) rotate(4deg) scale(1.06);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(40vw, -68vh) rotate(22deg) scale(0.38);
+    opacity: 0;
+    filter: blur(0.6px);
+  }
+}
+
+@media (max-width: 640px) {
+  @keyframes shore-send {
+    0% {
+      transform: translate(0, 0) rotate(-10deg) scale(1);
+      opacity: 1;
+    }
+    18% {
+      transform: translate(-2vw, -10vh) rotate(3deg) scale(1.05);
+      opacity: 1;
+    }
+    100% {
+      transform: translate(14vw, -60vh) rotate(18deg) scale(0.36);
+      opacity: 0;
+    }
+  }
+}
+
+.bottle-fly {
+  animation: shore-send 3.1s cubic-bezier(0.2, 0.95, 0.2, 1) forwards;
+}
+
+@keyframes throw-wave-bump {
+  0%,
+  100% {
+    transform: translateY(0) scaleY(1);
+    opacity: 0.35;
+  }
+  40% {
+    transform: translateY(6px) scaleY(1.06);
+    opacity: 0.65;
+  }
+}
+
+.throw-wave-bump {
+  animation: throw-wave-bump 3.1s ease-in-out forwards;
+}
+
+@keyframes ripple-out {
+  0% {
+    transform: scale(0.35);
+    opacity: 0.55;
+  }
+  100% {
+    transform: scale(2.8);
+    opacity: 0;
+  }
+}
+
+.ripple-ring {
+  animation: ripple-out 0.95s ease-out forwards;
+}
+
+/* 拾う画面：浜辺の寄せ波（複数レイヤー） */
+@keyframes shore-line-drift {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-140px);
+  }
+}
+
+@keyframes shore-line-drift-reverse {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(120px);
+  }
+}
+
+@keyframes shore-foam-pulse {
+  0%,
+  100% {
+    opacity: 0.28;
+  }
+  50% {
+    opacity: 0.48;
+  }
+}
+
+.shore-wave-layer-1 {
+  animation: shore-line-drift 18s linear infinite;
+}
+
+.shore-wave-layer-2 {
+  animation: shore-line-drift-reverse 24s linear infinite;
+}
+
+.shore-wave-layer-3 {
+  animation: shore-line-drift 32s linear infinite;
+}
+
+.shore-foam-shimmer {
+  animation: shore-foam-pulse 5s ease-in-out infinite;
+}
