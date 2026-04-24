@@ -8,6 +8,7 @@ export type PublicQuote = {
   id: string;
   text: string;
   author: string;
+  explanation: string;
   genre: WorryGenre;
   genreLabel: string;
 };
@@ -26,6 +27,7 @@ export async function fetchQuoteById(id: string): Promise<PublicQuote | null> {
       id: row.id,
       text: row.content,
       author: row.author,
+      explanation: row.explanation,
       genre: g,
       genreLabel: GENRE_LABELS[g],
     };

@@ -22,6 +22,7 @@ export const quotes = sqliteTable(
     id: text("id").primaryKey(),
     content: text("content").notNull(),
     author: text("author").notNull(),
+    explanation: text("explanation").notNull(),
     category: text("category").notNull(),
     createdAt: integer("created_at", { mode: "number" }).notNull(),
   },

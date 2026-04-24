@@ -42,6 +42,7 @@ export async function GET(req: Request) {
       id: row.id,
       content: row.content,
       author: row.author,
+      explanation: row.explanation,
       category: row.category,
     });
   } catch (e) {

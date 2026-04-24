@@ -16,6 +16,7 @@ type Row = {
   category: string;
   author: string;
   content: string;
+  explanation: string;
   created_at?: number;
 };
 
@@ -42,6 +43,7 @@ async function main() {
       id: row.id,
       content: row.content,
       author: row.author,
+      explanation: row.explanation,
       category: row.category,
       createdAt: typeof row.created_at === "number" ? row.created_at : Date.now(),
     });

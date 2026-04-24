@@ -43,6 +43,7 @@ export async function ensureSchema(): Promise<void> {
           id TEXT PRIMARY KEY NOT NULL,
           content TEXT NOT NULL,
           author TEXT NOT NULL,
+          explanation TEXT NOT NULL DEFAULT '',
           category TEXT NOT NULL,
           created_at INTEGER NOT NULL
         )
@@ -50,6 +51,14 @@ export async function ensureSchema(): Promise<void> {
       await db.execute(
         "CREATE INDEX IF NOT EXISTS quotes_category_idx ON quotes(category)",
       );
+      const quoteCols = await db.execute("PRAGMA table_info(quotes)");
+      const hasExplanation = quoteCols.rows.some((r) => {
+        const row = r as Record<string, unknown>;
+        return row.name === "explanation";
+      });
+      if (!hasExplanation) {
+        await db.execute("ALTER TABLE quotes ADD COLUMN explanation TEXT NOT NULL DEFAULT ''");
+      }
     })();
   }
   await schemaReady;

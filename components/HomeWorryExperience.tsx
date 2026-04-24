@@ -13,6 +13,7 @@ type QuotePayload = {
   id: string;
   content: string;
   author: string;
+  explanation: string;
   category: WorryGenre;
 };
 
@@ -105,8 +106,15 @@ export function HomeWorryExperience() {
           const id = (j as { id?: unknown }).id;
           const c = (j as { content?: unknown }).content;
           const a = (j as { author?: unknown }).author;
+          const ex = (j as { explanation?: unknown }).explanation;
           const cat = (j as { category?: unknown }).category;
-          if (typeof id !== "string" || typeof c !== "string" || typeof a !== "string" || typeof cat !== "string") {
+          if (
+            typeof id !== "string" ||
+            typeof c !== "string" ||
+            typeof a !== "string" ||
+            typeof ex !== "string" ||
+            typeof cat !== "string"
+          ) {
             if (!cancelled) setHint("応答が不正です。");
             if (!cancelled) setStep("form");
             return;
@@ -116,6 +124,7 @@ export function HomeWorryExperience() {
               id,
               content: c,
               author: a,
+              explanation: ex,
               category: cat as WorryGenre,
             });
             setHeartOn(false);
@@ -238,6 +247,7 @@ export function HomeWorryExperience() {
                 「{quote.content}」
               </blockquote>
               <p className="mt-4 text-right text-sm text-cyan-100/90">— {quote.author}</p>
+              <p className="mt-3 text-sm leading-relaxed text-slate-300/85">{quote.explanation}</p>
               <p className="mt-2 text-center text-xs text-slate-500">ジャンル：{GENRE_LABELS[quote.category]}</p>
             </div>
 
