@@ -15,6 +15,7 @@ const notoSansJp = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://famous-quote-bottle-message.vercel.app"),
   title: "悩み別・名言ボトル｜夜の海へ",
   description:
     "いまの悩みを海に流し、同じジャンルの名言をひとつ受け取る体験。Turso に悩みと名言を蓄えます。",
