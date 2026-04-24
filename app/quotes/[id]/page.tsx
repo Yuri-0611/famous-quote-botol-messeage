@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { fetchQuoteById } from "@/lib/quote-by-id";
-import { getSiteUrl } from "@/lib/site-url";
 
 type Props = { params: Promise<{ id: string }> };
 
@@ -11,42 +10,17 @@ export const dynamic = "force-dynamic";
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { id } = await params;
   const q = await fetchQuoteById(id);
-  const site = getSiteUrl();
   if (!q) {
     return {
       title: "名言が見つかりません | 悩み別・名言ボトル",
       robots: { index: false, follow: false },
     };
   }
-  const quoteUrl = `${site}/quotes/${id}`;
-  const ogImage = `${site}/quotes/${id}/opengraph-image`;
   const title = `『${q.text}』 - 悩み別・名言ボトル`;
   const description = `私の悩みへのアンサー：『${q.text}』 - ${q.author}`;
   return {
-    metadataBase: new URL(site),
     title,
     description,
-    openGraph: {
-      title,
-      description,
-      type: "article",
-      url: quoteUrl,
-      images: [
-        {
-          url: ogImage,
-          width: 1200,
-          height: 630,
-          alt: `『${q.text}』 - ${q.author}`,
-          type: "image/png",
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title,
-      description,
-      images: [ogImage],
-    },
   };
 }
 

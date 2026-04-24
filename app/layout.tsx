@@ -6,7 +6,6 @@ import { SeaBackdrop } from "@/components/SeaBackdrop";
 import { SeaPresenceRipples } from "@/components/SeaPresenceRipples";
 import { StarField } from "@/components/StarField";
 import "./globals.css";
-import { getSiteUrl } from "@/lib/site-url";
 
 const notoSansJp = Noto_Sans_JP({
   subsets: ["latin"],
@@ -15,34 +14,10 @@ const notoSansJp = Noto_Sans_JP({
   display: "swap",
 });
 
-const siteUrl = getSiteUrl();
-
 export const metadata: Metadata = {
-  metadataBase: siteUrl.startsWith("http") ? new URL(siteUrl) : undefined,
   title: "悩み別・名言ボトル｜夜の海へ",
   description:
     "いまの悩みを海に流し、同じジャンルの名言をひとつ受け取る体験。Turso に悩みと名言を蓄えます。",
-  openGraph: {
-    type: "website",
-    locale: "ja_JP",
-    siteName: "悩み別・名言ボトル",
-    title: "悩み別・名言ボトル",
-    description: "悩みを流し、名言を受け取る。何度でも。",
-    images: [
-      {
-        url: "/opengraph-image",
-        width: 1200,
-        height: 630,
-        alt: "悩み別・名言ボトル",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "悩み別・名言ボトル",
-    description: "悩みを流し、名言を受け取る。何度でも。",
-    images: ["/twitter-image"],
-  },
 };
 
 export default function RootLayout({
