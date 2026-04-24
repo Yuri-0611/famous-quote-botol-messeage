@@ -72,7 +72,8 @@ export default async function QuoteByIdPage({ params }: Props) {
         <p className="mt-4 text-right text-sm text-cyan-100/90">— {q.author}</p>
         <p className="mt-3 text-sm leading-relaxed text-slate-300/85">{q.explanation}</p>
         <p className="mt-2 text-center text-xs text-slate-500">
-          ジャンル：<span className="text-slate-300">{q.genreLabel}</span>
+          ジャンル：
+          <span className="text-slate-300">{q.genreLabels.join(" / ")}</span>
         </p>
       </section>
 

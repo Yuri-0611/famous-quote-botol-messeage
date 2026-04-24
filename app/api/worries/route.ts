@@ -21,9 +21,9 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: "Invalid JSON" }, { status: 400 });
   }
   const contentRaw = (body as { content?: unknown }).content;
-  const categoryRaw = (body as { category?: unknown }).category;
-  if (typeof contentRaw !== "string" || typeof categoryRaw !== "string") {
-    return NextResponse.json({ error: "content と category が必要です。" }, { status: 400 });
+  const categoriesRaw = (body as { categories?: unknown }).categories;
+  if (typeof contentRaw !== "string" || !Array.isArray(categoriesRaw)) {
+    return NextResponse.json({ error: "content と categories が必要です。" }, { status: 400 });
   }
   const content = contentRaw.trim();
   if (content.length < MIN_LEN || content.length > MAX_LEN) {
@@ -32,9 +32,12 @@ export async function POST(req: Request) {
       { status: 400 },
     );
   }
-  const category = normalizeGenre(categoryRaw);
-  if (!category) {
-    return NextResponse.json({ error: "ジャンルが不正です。" }, { status: 400 });
+  const categories = categoriesRaw
+    .map((x) => (typeof x === "string" ? normalizeGenre(x) : null))
+    .filter((x): x is NonNullable<typeof x> => x !== null);
+  const uniqCategories = Array.from(new Set(categories));
+  if (uniqCategories.length < 1 || uniqCategories.length > 2) {
+    return NextResponse.json({ error: "ジャンルは1〜2件で選択してください。" }, { status: 400 });
   }
 
   try {
@@ -42,8 +45,14 @@ export async function POST(req: Request) {
     const db = getDb();
     const id = randomUUID();
     const createdAt = Date.now();
-    await db.insert(worries).values({ id, content, category, createdAt });
-    return NextResponse.json({ worryId: id, category });
+    await db.insert(worries).values({
+      id,
+      content,
+      category: uniqCategories.join(","),
+      matchType: null,
+      createdAt,
+    });
+    return NextResponse.json({ worryId: id, categories: uniqCategories });
   } catch (e) {
     console.error(e);
     return NextResponse.json({ error: "保存に失敗しました。" }, { status: 500 });

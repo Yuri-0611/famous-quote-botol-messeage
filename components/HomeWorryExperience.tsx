@@ -14,17 +14,20 @@ type QuotePayload = {
   content: string;
   author: string;
   explanation: string;
-  category: WorryGenre;
+  categories: WorryGenre[];
+  matchType: "and" | "or";
+  requestedCategories: WorryGenre[];
 };
 
 export function HomeWorryExperience() {
   const [step, setStep] = useState<Step>("form");
   const [content, setContent] = useState("");
-  const [genre, setGenre] = useState<WorryGenre | null>(null);
+  const [genres, setGenres] = useState<WorryGenre[]>([]);
   const [busy, setBusy] = useState(false);
   const [hint, setHint] = useState<string | null>(null);
   const [waitMs, setWaitMs] = useState(6000);
-  const [category, setCategory] = useState<WorryGenre | null>(null);
+  const [requestedCategories, setRequestedCategories] = useState<WorryGenre[]>([]);
+  const [worryId, setWorryId] = useState<string | null>(null);
   const [quote, setQuote] = useState<QuotePayload | null>(null);
   const [heartOn, setHeartOn] = useState(false);
   const bottleLook = useMemo(
@@ -35,9 +38,10 @@ export function HomeWorryExperience() {
   const resetFlow = useCallback(() => {
     setStep("form");
     setContent("");
-    setGenre(null);
+    setGenres([]);
     setHint(null);
-    setCategory(null);
+    setRequestedCategories([]);
+    setWorryId(null);
     setQuote(null);
     setHeartOn(false);
     setBusy(false);
@@ -46,8 +50,8 @@ export function HomeWorryExperience() {
   async function onSubmitForm(e: React.FormEvent) {
     e.preventDefault();
     setHint(null);
-    if (!genre) {
-      setHint("ジャンルを選んでください。");
+    if (genres.length < 1 || genres.length > 2) {
+      setHint("ジャンルを1〜2個選んでください。");
       return;
     }
     const t = content.trim();
@@ -60,7 +64,7 @@ export function HomeWorryExperience() {
       const res = await fetch("/api/worries", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ content: t, category: genre }),
+        body: JSON.stringify({ content: t, categories: genres }),
       });
       const j: unknown = await res.json().catch(() => ({}));
       if (!res.ok) {
@@ -71,12 +75,19 @@ export function HomeWorryExperience() {
         setHint(msg);
         return;
       }
-      const cat = (j as { category?: string }).category;
-      if (typeof cat !== "string") {
+      const cats = (j as { categories?: unknown }).categories;
+      if (!Array.isArray(cats)) {
         setHint("応答が不正です。");
         return;
       }
-      setCategory(cat as WorryGenre);
+      const validCats = cats.filter((x): x is WorryGenre => typeof x === "string");
+      const wid = (j as { worryId?: unknown }).worryId;
+      if (typeof wid !== "string" || wid.length < 10) {
+        setHint("応答が不正です。");
+        return;
+      }
+      setWorryId(wid);
+      setRequestedCategories(validCats);
       setWaitMs(5000 + Math.floor(Math.random() * 3001));
       setStep("wait");
     } catch {
@@ -87,12 +98,13 @@ export function HomeWorryExperience() {
   }
 
   useEffect(() => {
-    if (step !== "wait" || !category) return;
+    if (step !== "wait" || requestedCategories.length < 1 || !worryId) return;
     let cancelled = false;
     const t = setTimeout(() => {
       void (async () => {
         try {
-          const res = await fetch(`/api/quotes/random?category=${encodeURIComponent(category)}`);
+          const q = requestedCategories.map((x) => `category=${encodeURIComponent(x)}`).join("&");
+          const res = await fetch(`/api/quotes/random?${q}`);
           const j: unknown = await res.json().catch(() => ({}));
           if (!res.ok) {
             const msg =
@@ -107,28 +119,41 @@ export function HomeWorryExperience() {
           const c = (j as { content?: unknown }).content;
           const a = (j as { author?: unknown }).author;
           const ex = (j as { explanation?: unknown }).explanation;
-          const cat = (j as { category?: unknown }).category;
+          const cats = (j as { categories?: unknown }).categories;
+          const matchType = (j as { matchType?: unknown }).matchType;
+          const requested = (j as { requestedCategories?: unknown }).requestedCategories;
           if (
             typeof id !== "string" ||
             typeof c !== "string" ||
             typeof a !== "string" ||
             typeof ex !== "string" ||
-            typeof cat !== "string"
+            !Array.isArray(cats) ||
+            !Array.isArray(requested) ||
+            (matchType !== "and" && matchType !== "or")
           ) {
             if (!cancelled) setHint("応答が不正です。");
             if (!cancelled) setStep("form");
             return;
           }
+          const parsedCats = cats.filter((x): x is WorryGenre => typeof x === "string");
+          const parsedRequested = requested.filter((x): x is WorryGenre => typeof x === "string");
           if (!cancelled) {
             setQuote({
               id,
               content: c,
               author: a,
               explanation: ex,
-              category: cat as WorryGenre,
+              categories: parsedCats,
+              matchType,
+              requestedCategories: parsedRequested,
             });
             setHeartOn(false);
             setStep("result");
+            void fetch("/api/worries/match", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ worryId, matchType }),
+            }).catch(() => {});
           }
         } catch {
           if (!cancelled) {
@@ -142,7 +167,7 @@ export function HomeWorryExperience() {
       cancelled = true;
       clearTimeout(t);
     };
-  }, [step, category, waitMs]);
+  }, [step, requestedCategories, waitMs, worryId]);
 
   return (
     <main className="relative mx-auto flex w-full max-w-lg flex-1 flex-col px-4 pb-20 pt-10 sm:max-w-xl sm:pt-14">
@@ -181,8 +206,8 @@ export function HomeWorryExperience() {
               </label>
 
               <div>
-                <p className="mb-2 text-sm font-medium text-slate-200">ジャンル（15種）</p>
-                <GenreSingleSelect value={genre} onChange={setGenre} disabled={busy} name="worry-genre" />
+                <p className="mb-2 text-sm font-medium text-slate-200">ジャンル（15種・最大2つ）</p>
+                <GenreSingleSelect values={genres} onChange={setGenres} disabled={busy} name="worry-genre" />
               </div>
 
               {hint ? (
@@ -241,14 +266,18 @@ export function HomeWorryExperience() {
                 message for you
               </p>
               <p className="mt-4 text-center text-sm leading-relaxed text-slate-100/95">
-                この言葉は、かつてあなたと同じように悩んだ誰かを救った言葉です。
+                {quote.matchType === "and" && quote.requestedCategories.length >= 2
+                  ? `あなたが抱える「${GENRE_LABELS[quote.requestedCategories[0]]}」と「${GENRE_LABELS[quote.requestedCategories[1]]}」、その2つの悩みに深く寄り添う言葉です。`
+                  : "かつてあなたと同じように悩み、海を眺めた誰かを救った言葉です。"}
               </p>
               <blockquote className="mt-8 border-l-2 border-cyan-400/50 pl-4 text-lg font-medium leading-relaxed text-white sm:text-xl">
                 「{quote.content}」
               </blockquote>
               <p className="mt-4 text-right text-sm text-cyan-100/90">— {quote.author}</p>
               <p className="mt-3 text-sm leading-relaxed text-slate-300/85">{quote.explanation}</p>
-              <p className="mt-2 text-center text-xs text-slate-500">ジャンル：{GENRE_LABELS[quote.category]}</p>
+              <p className="mt-2 text-center text-xs text-slate-500">
+                ジャンル：{quote.categories.map((g) => GENRE_LABELS[g] ?? g).join(" / ")}
+              </p>
             </div>
 
             <div className="flex flex-col gap-3 sm:flex-row sm:justify-center">

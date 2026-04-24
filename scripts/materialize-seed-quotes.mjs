@@ -1,5 +1,5 @@
 /**
- * 15ジャンル × 10件の名言シードを data/seed-quotes.json に書き出す。
+ * 15ジャンル × 20件（合計300件）の名言シードを data/seed-quotes.json に書き出す。
  * 出典は主に広く引用される格言・一般に流布する邦訳表現（意訳・短縮を含む）。
  * 実行: node scripts/materialize-seed-quotes.mjs
  */
@@ -248,21 +248,52 @@ function buildExplanation(category) {
   return EXPLANATION_BY_GENRE[category] ?? "この言葉は、いまの心にやさしい視点をくれるための灯りです。";
 }
 
+const RELATED_PAIRS = {
+  study_work: ["future", "time_stress"],
+  relationships: ["family", "comparison"],
+  future: ["study_work", "indecision"],
+  self_confidence: ["comparison", "motivation"],
+  healing: ["health", "heartbreak"],
+  romance: ["self_confidence", "heartbreak"],
+  family: ["relationships", "money_life"],
+  money_life: ["future", "time_stress"],
+  health: ["healing", "motivation"],
+  heartbreak: ["romance", "healing"],
+  new_environment: ["future", "relationships"],
+  time_stress: ["study_work", "money_life"],
+  comparison: ["self_confidence", "relationships"],
+  motivation: ["study_work", "self_confidence"],
+  indecision: ["future", "motivation"],
+};
+
 const rows = [];
 let t = Date.now();
 for (const g of genres) {
   const list = packs[g];
+  const rel = RELATED_PAIRS[g];
   if (!list || list.length !== 10) {
     throw new Error(`pack size for ${g}: ${list?.length}`);
   }
+  if (!rel || rel.length !== 2) {
+    throw new Error(`related pair for ${g} is invalid`);
+  }
   list.forEach(([author, content], i) => {
-    const id = `q_${g}_${String(i + 1).padStart(2, "0")}`;
-    rows.push({
-      id,
-      category: g,
+    const seq = String(i + 1).padStart(2, "0");
+    const common = {
       author,
       content,
       explanation: buildExplanation(g),
+    };
+    rows.push({
+      id: `q_${g}_${seq}_a`,
+      categories: [g, rel[0]],
+      ...common,
+      created_at: t++,
+    });
+    rows.push({
+      id: `q_${g}_${seq}_b`,
+      categories: [g, rel[1]],
+      ...common,
       created_at: t++,
     });
   });

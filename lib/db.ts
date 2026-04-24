@@ -37,6 +37,14 @@ export async function ensureSchema(): Promise<void> {
       await db.execute(
         "CREATE INDEX IF NOT EXISTS worries_created_idx ON worries(created_at)",
       );
+      const worryCols = await db.execute("PRAGMA table_info(worries)");
+      const hasWorryMatch = worryCols.rows.some((r) => {
+        const row = r as Record<string, unknown>;
+        return row.name === "match_type";
+      });
+      if (!hasWorryMatch) {
+        await db.execute("ALTER TABLE worries ADD COLUMN match_type TEXT");
+      }
 
       await db.execute(`
         CREATE TABLE IF NOT EXISTS quotes (

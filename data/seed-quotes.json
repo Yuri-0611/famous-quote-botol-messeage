@@ -1,1202 +1,3302 @@
 [
   {
-    "id": "q_study_work_01",
-    "category": "study_work",
+    "id": "q_study_work_01_a",
+    "categories": [
+      "study_work",
+      "future"
+    ],
     "author": "ソクラテス",
     "content": "私にとって唯一確かな知は、自分が無知であるという知だけだ。",
     "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
-    "created_at": 1776996662145
+    "created_at": 1776998522000
   },
   {
-    "id": "q_study_work_02",
-    "category": "study_work",
+    "id": "q_study_work_01_b",
+    "categories": [
+      "study_work",
+      "time_stress"
+    ],
+    "author": "ソクラテス",
+    "content": "私にとって唯一確かな知は、自分が無知であるという知だけだ。",
+    "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
+    "created_at": 1776998522001
+  },
+  {
+    "id": "q_study_work_02_a",
+    "categories": [
+      "study_work",
+      "future"
+    ],
     "author": "プラトン",
     "content": "学びは、魂そのものに羽を生やす。",
     "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
-    "created_at": 1776996662146
+    "created_at": 1776998522002
   },
   {
-    "id": "q_study_work_03",
-    "category": "study_work",
+    "id": "q_study_work_02_b",
+    "categories": [
+      "study_work",
+      "time_stress"
+    ],
+    "author": "プラトン",
+    "content": "学びは、魂そのものに羽を生やす。",
+    "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
+    "created_at": 1776998522003
+  },
+  {
+    "id": "q_study_work_03_a",
+    "categories": [
+      "study_work",
+      "future"
+    ],
     "author": "アリストテレス",
     "content": "我々は、なすがままにすることで習得する。",
     "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
-    "created_at": 1776996662147
+    "created_at": 1776998522004
   },
   {
-    "id": "q_study_work_04",
-    "category": "study_work",
+    "id": "q_study_work_03_b",
+    "categories": [
+      "study_work",
+      "time_stress"
+    ],
+    "author": "アリストテレス",
+    "content": "我々は、なすがままにすることで習得する。",
+    "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
+    "created_at": 1776998522005
+  },
+  {
+    "id": "q_study_work_04_a",
+    "categories": [
+      "study_work",
+      "future"
+    ],
     "author": "フランシス・ベーコン",
     "content": "知は力なり。",
     "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
-    "created_at": 1776996662148
+    "created_at": 1776998522006
   },
   {
-    "id": "q_study_work_05",
-    "category": "study_work",
+    "id": "q_study_work_04_b",
+    "categories": [
+      "study_work",
+      "time_stress"
+    ],
+    "author": "フランシス・ベーコン",
+    "content": "知は力なり。",
+    "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
+    "created_at": 1776998522007
+  },
+  {
+    "id": "q_study_work_05_a",
+    "categories": [
+      "study_work",
+      "future"
+    ],
     "author": "アルベルト・アインシュタイン",
     "content": "問題をそのままの思考で解こうとしたって、だいたい失敗する。",
     "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
-    "created_at": 1776996662149
+    "created_at": 1776998522008
   },
   {
-    "id": "q_study_work_06",
-    "category": "study_work",
+    "id": "q_study_work_05_b",
+    "categories": [
+      "study_work",
+      "time_stress"
+    ],
+    "author": "アルベルト・アインシュタイン",
+    "content": "問題をそのままの思考で解こうとしたって、だいたい失敗する。",
+    "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
+    "created_at": 1776998522009
+  },
+  {
+    "id": "q_study_work_06_a",
+    "categories": [
+      "study_work",
+      "future"
+    ],
     "author": "孔子",
     "content": "学びて時に之を習う、亦説ばしからずや。",
     "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
-    "created_at": 1776996662150
+    "created_at": 1776998522010
   },
   {
-    "id": "q_study_work_07",
-    "category": "study_work",
+    "id": "q_study_work_06_b",
+    "categories": [
+      "study_work",
+      "time_stress"
+    ],
+    "author": "孔子",
+    "content": "学びて時に之を習う、亦説ばしからずや。",
+    "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
+    "created_at": 1776998522011
+  },
+  {
+    "id": "q_study_work_07_a",
+    "categories": [
+      "study_work",
+      "future"
+    ],
     "author": "ヨハン・ヴォルフガング・フォン・ゲーテ",
     "content": "何事も成立する前は不可能に見える。",
     "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
-    "created_at": 1776996662151
+    "created_at": 1776998522012
   },
   {
-    "id": "q_study_work_08",
-    "category": "study_work",
+    "id": "q_study_work_07_b",
+    "categories": [
+      "study_work",
+      "time_stress"
+    ],
+    "author": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+    "content": "何事も成立する前は不可能に見える。",
+    "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
+    "created_at": 1776998522013
+  },
+  {
+    "id": "q_study_work_08_a",
+    "categories": [
+      "study_work",
+      "future"
+    ],
     "author": "マルクス・トゥリウス・キケロ",
     "content": "学問は翼なき飛行だ。",
     "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
-    "created_at": 1776996662152
+    "created_at": 1776998522014
   },
   {
-    "id": "q_study_work_09",
-    "category": "study_work",
+    "id": "q_study_work_08_b",
+    "categories": [
+      "study_work",
+      "time_stress"
+    ],
+    "author": "マルクス・トゥリウス・キケロ",
+    "content": "学問は翼なき飛行だ。",
+    "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
+    "created_at": 1776998522015
+  },
+  {
+    "id": "q_study_work_09_a",
+    "categories": [
+      "study_work",
+      "future"
+    ],
     "author": "セネカ",
     "content": "道が長いなら、一歩ずつ進め。",
     "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
-    "created_at": 1776996662153
+    "created_at": 1776998522016
   },
   {
-    "id": "q_study_work_10",
-    "category": "study_work",
+    "id": "q_study_work_09_b",
+    "categories": [
+      "study_work",
+      "time_stress"
+    ],
+    "author": "セネカ",
+    "content": "道が長いなら、一歩ずつ進め。",
+    "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
+    "created_at": 1776998522017
+  },
+  {
+    "id": "q_study_work_10_a",
+    "categories": [
+      "study_work",
+      "future"
+    ],
     "author": "ルネ・デカルト",
     "content": "我思う、ゆえに我あり。",
     "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
-    "created_at": 1776996662154
+    "created_at": 1776998522018
   },
   {
-    "id": "q_relationships_01",
-    "category": "relationships",
+    "id": "q_study_work_10_b",
+    "categories": [
+      "study_work",
+      "time_stress"
+    ],
+    "author": "ルネ・デカルト",
+    "content": "我思う、ゆえに我あり。",
+    "explanation": "結果だけで自分を裁きがちなとき、この言葉は『成長は途中でいい』と教えてくれます。小さな前進を肯定することで、学びと仕事への呼吸が少し楽になります。",
+    "created_at": 1776998522019
+  },
+  {
+    "id": "q_relationships_01_a",
+    "categories": [
+      "relationships",
+      "family"
+    ],
     "author": "孔子",
     "content": "己の欲せざる所は人に施すなかれ。",
     "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
-    "created_at": 1776996662155
+    "created_at": 1776998522020
   },
   {
-    "id": "q_relationships_02",
-    "category": "relationships",
+    "id": "q_relationships_01_b",
+    "categories": [
+      "relationships",
+      "comparison"
+    ],
+    "author": "孔子",
+    "content": "己の欲せざる所は人に施すなかれ。",
+    "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
+    "created_at": 1776998522021
+  },
+  {
+    "id": "q_relationships_02_a",
+    "categories": [
+      "relationships",
+      "family"
+    ],
     "author": "マザー・テレサ",
     "content": "今日という一日が、あなたの人生でいちばん大切な日。",
     "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
-    "created_at": 1776996662156
+    "created_at": 1776998522022
   },
   {
-    "id": "q_relationships_03",
-    "category": "relationships",
+    "id": "q_relationships_02_b",
+    "categories": [
+      "relationships",
+      "comparison"
+    ],
+    "author": "マザー・テレサ",
+    "content": "今日という一日が、あなたの人生でいちばん大切な日。",
+    "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
+    "created_at": 1776998522023
+  },
+  {
+    "id": "q_relationships_03_a",
+    "categories": [
+      "relationships",
+      "family"
+    ],
     "author": "ラルフ・ワルド・エマソン",
     "content": "友は鏡のようなものだ。",
     "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
-    "created_at": 1776996662157
+    "created_at": 1776998522024
   },
   {
-    "id": "q_relationships_04",
-    "category": "relationships",
+    "id": "q_relationships_03_b",
+    "categories": [
+      "relationships",
+      "comparison"
+    ],
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "友は鏡のようなものだ。",
+    "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
+    "created_at": 1776998522025
+  },
+  {
+    "id": "q_relationships_04_a",
+    "categories": [
+      "relationships",
+      "family"
+    ],
     "author": "ヘンリー・フォード",
     "content": "一緒にいる人を大切にせよ。それが幸福の近道だ。",
     "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
-    "created_at": 1776996662158
+    "created_at": 1776998522026
   },
   {
-    "id": "q_relationships_05",
-    "category": "relationships",
+    "id": "q_relationships_04_b",
+    "categories": [
+      "relationships",
+      "comparison"
+    ],
+    "author": "ヘンリー・フォード",
+    "content": "一緒にいる人を大切にせよ。それが幸福の近道だ。",
+    "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
+    "created_at": 1776998522027
+  },
+  {
+    "id": "q_relationships_05_a",
+    "categories": [
+      "relationships",
+      "family"
+    ],
     "author": "マルクス・アウレリウス",
     "content": "怒りは小さな狂いだ。",
     "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
-    "created_at": 1776996662159
+    "created_at": 1776998522028
   },
   {
-    "id": "q_relationships_06",
-    "category": "relationships",
+    "id": "q_relationships_05_b",
+    "categories": [
+      "relationships",
+      "comparison"
+    ],
+    "author": "マルクス・アウレリウス",
+    "content": "怒りは小さな狂いだ。",
+    "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
+    "created_at": 1776998522029
+  },
+  {
+    "id": "q_relationships_06_a",
+    "categories": [
+      "relationships",
+      "family"
+    ],
     "author": "ウィリアム・シェイクスピア",
     "content": "親切は借金ではない。利息がつく。",
     "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
-    "created_at": 1776996662160
+    "created_at": 1776998522030
   },
   {
-    "id": "q_relationships_07",
-    "category": "relationships",
+    "id": "q_relationships_06_b",
+    "categories": [
+      "relationships",
+      "comparison"
+    ],
+    "author": "ウィリアム・シェイクスピア",
+    "content": "親切は借金ではない。利息がつく。",
+    "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
+    "created_at": 1776998522031
+  },
+  {
+    "id": "q_relationships_07_a",
+    "categories": [
+      "relationships",
+      "family"
+    ],
     "author": "プラトン",
     "content": "語ることより、聴くことのほうが難しい。",
     "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
-    "created_at": 1776996662161
+    "created_at": 1776998522032
   },
   {
-    "id": "q_relationships_08",
-    "category": "relationships",
+    "id": "q_relationships_07_b",
+    "categories": [
+      "relationships",
+      "comparison"
+    ],
+    "author": "プラトン",
+    "content": "語ることより、聴くことのほうが難しい。",
+    "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
+    "created_at": 1776998522033
+  },
+  {
+    "id": "q_relationships_08_a",
+    "categories": [
+      "relationships",
+      "family"
+    ],
     "author": "アリストテレス",
     "content": "友は、ひとりの魂がふたつの躯体に宿るようなもの。",
     "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
-    "created_at": 1776996662162
+    "created_at": 1776998522034
   },
   {
-    "id": "q_relationships_09",
-    "category": "relationships",
+    "id": "q_relationships_08_b",
+    "categories": [
+      "relationships",
+      "comparison"
+    ],
+    "author": "アリストテレス",
+    "content": "友は、ひとりの魂がふたつの躯体に宿るようなもの。",
+    "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
+    "created_at": 1776998522035
+  },
+  {
+    "id": "q_relationships_09_a",
+    "categories": [
+      "relationships",
+      "family"
+    ],
     "author": "老子",
     "content": "善い言葉は市場に勝ち、善い功は人に従う。",
     "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
-    "created_at": 1776996662163
+    "created_at": 1776998522036
   },
   {
-    "id": "q_relationships_10",
-    "category": "relationships",
+    "id": "q_relationships_09_b",
+    "categories": [
+      "relationships",
+      "comparison"
+    ],
+    "author": "老子",
+    "content": "善い言葉は市場に勝ち、善い功は人に従う。",
+    "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
+    "created_at": 1776998522037
+  },
+  {
+    "id": "q_relationships_10_a",
+    "categories": [
+      "relationships",
+      "family"
+    ],
     "author": "ブレーズ・パスカル",
     "content": "心の論理は、論理の論理より厳しい。",
     "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
-    "created_at": 1776996662164
+    "created_at": 1776998522038
   },
   {
-    "id": "q_future_01",
-    "category": "future",
+    "id": "q_relationships_10_b",
+    "categories": [
+      "relationships",
+      "comparison"
+    ],
+    "author": "ブレーズ・パスカル",
+    "content": "心の論理は、論理の論理より厳しい。",
+    "explanation": "人間関係で心が疲れたとき、この言葉は相手より先に自分の心を整える視点をくれます。責めるより理解に寄ることで、関係にやわらかい余白が戻ります。",
+    "created_at": 1776998522039
+  },
+  {
+    "id": "q_future_01_a",
+    "categories": [
+      "future",
+      "study_work"
+    ],
     "author": "アブラハム・リンカーン",
     "content": "未来の最善の予測は、未来を創ることだ。",
     "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
-    "created_at": 1776996662165
+    "created_at": 1776998522040
   },
   {
-    "id": "q_future_02",
-    "category": "future",
+    "id": "q_future_01_b",
+    "categories": [
+      "future",
+      "indecision"
+    ],
+    "author": "アブラハム・リンカーン",
+    "content": "未来の最善の予測は、未来を創ることだ。",
+    "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
+    "created_at": 1776998522041
+  },
+  {
+    "id": "q_future_02_a",
+    "categories": [
+      "future",
+      "study_work"
+    ],
     "author": "ピーター・ドラッカー",
     "content": "最善の方法で未来を予測することは、未来を創ることだ。",
     "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
-    "created_at": 1776996662166
+    "created_at": 1776998522042
   },
   {
-    "id": "q_future_03",
-    "category": "future",
+    "id": "q_future_02_b",
+    "categories": [
+      "future",
+      "indecision"
+    ],
+    "author": "ピーター・ドラッカー",
+    "content": "最善の方法で未来を予測することは、未来を創ることだ。",
+    "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
+    "created_at": 1776998522043
+  },
+  {
+    "id": "q_future_03_a",
+    "categories": [
+      "future",
+      "study_work"
+    ],
     "author": "ヘレン・ケラー",
     "content": "希望を失わない限り、人は敗北しない。",
     "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
-    "created_at": 1776996662167
+    "created_at": 1776998522044
   },
   {
-    "id": "q_future_04",
-    "category": "future",
+    "id": "q_future_03_b",
+    "categories": [
+      "future",
+      "indecision"
+    ],
+    "author": "ヘレン・ケラー",
+    "content": "希望を失わない限り、人は敗北しない。",
+    "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
+    "created_at": 1776998522045
+  },
+  {
+    "id": "q_future_04_a",
+    "categories": [
+      "future",
+      "study_work"
+    ],
     "author": "ウィンストン・チャーチル",
     "content": "成功とは、失敗から失敗へと情熱を失わずに進むことだ。",
     "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
-    "created_at": 1776996662168
+    "created_at": 1776998522046
   },
   {
-    "id": "q_future_05",
-    "category": "future",
+    "id": "q_future_04_b",
+    "categories": [
+      "future",
+      "indecision"
+    ],
+    "author": "ウィンストン・チャーチル",
+    "content": "成功とは、失敗から失敗へと情熱を失わずに進むことだ。",
+    "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
+    "created_at": 1776998522047
+  },
+  {
+    "id": "q_future_05_a",
+    "categories": [
+      "future",
+      "study_work"
+    ],
     "author": "アール・ナイチンゲール",
     "content": "未来は今日の積み重ねでできている。",
     "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
-    "created_at": 1776996662169
+    "created_at": 1776998522048
   },
   {
-    "id": "q_future_06",
-    "category": "future",
+    "id": "q_future_05_b",
+    "categories": [
+      "future",
+      "indecision"
+    ],
+    "author": "アール・ナイチンゲール",
+    "content": "未来は今日の積み重ねでできている。",
+    "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
+    "created_at": 1776998522049
+  },
+  {
+    "id": "q_future_06_a",
+    "categories": [
+      "future",
+      "study_work"
+    ],
     "author": "マルクス・アウレリウス",
     "content": "妨げられることはない。内なる衝動だけが妨げる。",
     "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
-    "created_at": 1776996662170
+    "created_at": 1776998522050
   },
   {
-    "id": "q_future_07",
-    "category": "future",
+    "id": "q_future_06_b",
+    "categories": [
+      "future",
+      "indecision"
+    ],
+    "author": "マルクス・アウレリウス",
+    "content": "妨げられることはない。内なる衝動だけが妨げる。",
+    "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
+    "created_at": 1776998522051
+  },
+  {
+    "id": "q_future_07_a",
+    "categories": [
+      "future",
+      "study_work"
+    ],
     "author": "セネカ",
     "content": "運命は導く者であり、引きずる者でもある。",
     "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
-    "created_at": 1776996662171
+    "created_at": 1776998522052
   },
   {
-    "id": "q_future_08",
-    "category": "future",
+    "id": "q_future_07_b",
+    "categories": [
+      "future",
+      "indecision"
+    ],
+    "author": "セネカ",
+    "content": "運命は導く者であり、引きずる者でもある。",
+    "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
+    "created_at": 1776998522053
+  },
+  {
+    "id": "q_future_08_a",
+    "categories": [
+      "future",
+      "study_work"
+    ],
     "author": "ヴィクトル・ユーゴー",
     "content": "未来には、人間の働きという名前の魔法がある。",
     "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
-    "created_at": 1776996662172
+    "created_at": 1776998522054
   },
   {
-    "id": "q_future_09",
-    "category": "future",
+    "id": "q_future_08_b",
+    "categories": [
+      "future",
+      "indecision"
+    ],
+    "author": "ヴィクトル・ユーゴー",
+    "content": "未来には、人間の働きという名前の魔法がある。",
+    "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
+    "created_at": 1776998522055
+  },
+  {
+    "id": "q_future_09_a",
+    "categories": [
+      "future",
+      "study_work"
+    ],
     "author": "アンソニー・ロビンズ",
     "content": "焦点を合わせた場所が、現実になる。",
     "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
-    "created_at": 1776996662173
+    "created_at": 1776998522056
   },
   {
-    "id": "q_future_10",
-    "category": "future",
+    "id": "q_future_09_b",
+    "categories": [
+      "future",
+      "indecision"
+    ],
+    "author": "アンソニー・ロビンズ",
+    "content": "焦点を合わせた場所が、現実になる。",
+    "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
+    "created_at": 1776998522057
+  },
+  {
+    "id": "q_future_10_a",
+    "categories": [
+      "future",
+      "study_work"
+    ],
     "author": "スティーブ・ジョブズ",
     "content": "点はつながる。振り返るときだけだ。",
     "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
-    "created_at": 1776996662174
+    "created_at": 1776998522058
   },
   {
-    "id": "q_self_confidence_01",
-    "category": "self_confidence",
+    "id": "q_future_10_b",
+    "categories": [
+      "future",
+      "indecision"
+    ],
+    "author": "スティーブ・ジョブズ",
+    "content": "点はつながる。振り返るときだけだ。",
+    "explanation": "将来への不安で足が止まりそうなとき、この言葉は『いま選べる一歩』に意識を戻してくれます。未来を怖れる気持ちが、行動できる静かな勇気へ変わっていきます。",
+    "created_at": 1776998522059
+  },
+  {
+    "id": "q_self_confidence_01_a",
+    "categories": [
+      "self_confidence",
+      "comparison"
+    ],
     "author": "ラルフ・ワルド・エマソン",
     "content": "自分自身を信じよ。そうすれば生き方がわかる。",
     "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
-    "created_at": 1776996662175
+    "created_at": 1776998522060
   },
   {
-    "id": "q_self_confidence_02",
-    "category": "self_confidence",
+    "id": "q_self_confidence_01_b",
+    "categories": [
+      "self_confidence",
+      "motivation"
+    ],
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "自分自身を信じよ。そうすれば生き方がわかる。",
+    "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
+    "created_at": 1776998522061
+  },
+  {
+    "id": "q_self_confidence_02_a",
+    "categories": [
+      "self_confidence",
+      "comparison"
+    ],
     "author": "ヘンリー・フォード",
     "content": "信じるか信じないか、どちらでもあなたは正しい。",
     "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
-    "created_at": 1776996662176
+    "created_at": 1776998522062
   },
   {
-    "id": "q_self_confidence_03",
-    "category": "self_confidence",
+    "id": "q_self_confidence_02_b",
+    "categories": [
+      "self_confidence",
+      "motivation"
+    ],
+    "author": "ヘンリー・フォード",
+    "content": "信じるか信じないか、どちらでもあなたは正しい。",
+    "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
+    "created_at": 1776998522063
+  },
+  {
+    "id": "q_self_confidence_03_a",
+    "categories": [
+      "self_confidence",
+      "comparison"
+    ],
     "author": "マリアン・ウィリアムソン",
     "content": "私たちの内なる光を恐れるのではなく、暗闇を恐れよう。",
     "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
-    "created_at": 1776996662177
+    "created_at": 1776998522064
   },
   {
-    "id": "q_self_confidence_04",
-    "category": "self_confidence",
+    "id": "q_self_confidence_03_b",
+    "categories": [
+      "self_confidence",
+      "motivation"
+    ],
+    "author": "マリアン・ウィリアムソン",
+    "content": "私たちの内なる光を恐れるのではなく、暗闇を恐れよう。",
+    "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
+    "created_at": 1776998522065
+  },
+  {
+    "id": "q_self_confidence_04_a",
+    "categories": [
+      "self_confidence",
+      "comparison"
+    ],
     "author": "エレノア・ルーズベルト",
     "content": "誰もあなたに劣等感を抱かせる権利はない。",
     "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
-    "created_at": 1776996662178
+    "created_at": 1776998522066
   },
   {
-    "id": "q_self_confidence_05",
-    "category": "self_confidence",
+    "id": "q_self_confidence_04_b",
+    "categories": [
+      "self_confidence",
+      "motivation"
+    ],
+    "author": "エレノア・ルーズベルト",
+    "content": "誰もあなたに劣等感を抱かせる権利はない。",
+    "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
+    "created_at": 1776998522067
+  },
+  {
+    "id": "q_self_confidence_05_a",
+    "categories": [
+      "self_confidence",
+      "comparison"
+    ],
     "author": "マルクス・アウレリウス",
     "content": "あなたの力は、あなたの考えを支配する力にある。",
     "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
-    "created_at": 1776996662179
+    "created_at": 1776998522068
   },
   {
-    "id": "q_self_confidence_06",
-    "category": "self_confidence",
+    "id": "q_self_confidence_05_b",
+    "categories": [
+      "self_confidence",
+      "motivation"
+    ],
+    "author": "マルクス・アウレリウス",
+    "content": "あなたの力は、あなたの考えを支配する力にある。",
+    "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
+    "created_at": 1776998522069
+  },
+  {
+    "id": "q_self_confidence_06_a",
+    "categories": [
+      "self_confidence",
+      "comparison"
+    ],
     "author": "ヴィヴィアン・グリーン",
     "content": "人生は一度きり。だが、正しければ一度で足りる。",
     "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
-    "created_at": 1776996662180
+    "created_at": 1776998522070
   },
   {
-    "id": "q_self_confidence_07",
-    "category": "self_confidence",
+    "id": "q_self_confidence_06_b",
+    "categories": [
+      "self_confidence",
+      "motivation"
+    ],
+    "author": "ヴィヴィアン・グリーン",
+    "content": "人生は一度きり。だが、正しければ一度で足りる。",
+    "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
+    "created_at": 1776998522071
+  },
+  {
+    "id": "q_self_confidence_07_a",
+    "categories": [
+      "self_confidence",
+      "comparison"
+    ],
     "author": "マーヴァ・コリンズ",
     "content": "成功は、失敗の積み重ねの別名だ。",
     "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
-    "created_at": 1776996662181
+    "created_at": 1776998522072
   },
   {
-    "id": "q_self_confidence_08",
-    "category": "self_confidence",
+    "id": "q_self_confidence_07_b",
+    "categories": [
+      "self_confidence",
+      "motivation"
+    ],
+    "author": "マーヴァ・コリンズ",
+    "content": "成功は、失敗の積み重ねの別名だ。",
+    "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
+    "created_at": 1776998522073
+  },
+  {
+    "id": "q_self_confidence_08_a",
+    "categories": [
+      "self_confidence",
+      "comparison"
+    ],
     "author": "ブッダ（伝承）",
     "content": "自分自身の灯火となれ。自分自身のよりどころとなれ。",
     "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
-    "created_at": 1776996662182
+    "created_at": 1776998522074
   },
   {
-    "id": "q_self_confidence_09",
-    "category": "self_confidence",
+    "id": "q_self_confidence_08_b",
+    "categories": [
+      "self_confidence",
+      "motivation"
+    ],
+    "author": "ブッダ（伝承）",
+    "content": "自分自身の灯火となれ。自分自身のよりどころとなれ。",
+    "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
+    "created_at": 1776998522075
+  },
+  {
+    "id": "q_self_confidence_09_a",
+    "categories": [
+      "self_confidence",
+      "comparison"
+    ],
     "author": "ヘンリー・デイヴィッド・ソロー",
     "content": "自信まみれに歩け。そして人々の方へ向かうな。",
     "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
-    "created_at": 1776996662183
+    "created_at": 1776998522076
   },
   {
-    "id": "q_self_confidence_10",
-    "category": "self_confidence",
+    "id": "q_self_confidence_09_b",
+    "categories": [
+      "self_confidence",
+      "motivation"
+    ],
+    "author": "ヘンリー・デイヴィッド・ソロー",
+    "content": "自信まみれに歩け。そして人々の方へ向かうな。",
+    "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
+    "created_at": 1776998522077
+  },
+  {
+    "id": "q_self_confidence_10_a",
+    "categories": [
+      "self_confidence",
+      "comparison"
+    ],
     "author": "マヤ・アンジェロウ",
     "content": "まだ立ち上がったことがないなら、それが恥だ。",
     "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
-    "created_at": 1776996662184
+    "created_at": 1776998522078
   },
   {
-    "id": "q_healing_01",
-    "category": "healing",
+    "id": "q_self_confidence_10_b",
+    "categories": [
+      "self_confidence",
+      "motivation"
+    ],
+    "author": "マヤ・アンジェロウ",
+    "content": "まだ立ち上がったことがないなら、それが恥だ。",
+    "explanation": "自信をなくしたとき、この言葉は欠点ではなく可能性へ視線を向け直させてくれます。完璧でなくても進めると気づくことで、自己否定がやさしくほどけます。",
+    "created_at": 1776998522079
+  },
+  {
+    "id": "q_healing_01_a",
+    "categories": [
+      "healing",
+      "health"
+    ],
     "author": "マザー・テレサ",
     "content": "平和は微笑みから始まる。",
     "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
-    "created_at": 1776996662185
+    "created_at": 1776998522080
   },
   {
-    "id": "q_healing_02",
-    "category": "healing",
+    "id": "q_healing_01_b",
+    "categories": [
+      "healing",
+      "heartbreak"
+    ],
+    "author": "マザー・テレサ",
+    "content": "平和は微笑みから始まる。",
+    "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
+    "created_at": 1776998522081
+  },
+  {
+    "id": "q_healing_02_a",
+    "categories": [
+      "healing",
+      "health"
+    ],
     "author": "レオ・ブスカーリア",
     "content": "人生は、愛する人の腕のなかで過ごす日々の積み重ねだ。",
     "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
-    "created_at": 1776996662186
+    "created_at": 1776998522082
   },
   {
-    "id": "q_healing_03",
-    "category": "healing",
+    "id": "q_healing_02_b",
+    "categories": [
+      "healing",
+      "heartbreak"
+    ],
+    "author": "レオ・ブスカーリア",
+    "content": "人生は、愛する人の腕のなかで過ごす日々の積み重ねだ。",
+    "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
+    "created_at": 1776998522083
+  },
+  {
+    "id": "q_healing_03_a",
+    "categories": [
+      "healing",
+      "health"
+    ],
     "author": "ラビンドラナート・タゴール",
     "content": "雲が空を覆っても、星は消えない。",
     "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
-    "created_at": 1776996662187
+    "created_at": 1776998522084
   },
   {
-    "id": "q_healing_04",
-    "category": "healing",
+    "id": "q_healing_03_b",
+    "categories": [
+      "healing",
+      "heartbreak"
+    ],
+    "author": "ラビンドラナート・タゴール",
+    "content": "雲が空を覆っても、星は消えない。",
+    "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
+    "created_at": 1776998522085
+  },
+  {
+    "id": "q_healing_04_a",
+    "categories": [
+      "healing",
+      "health"
+    ],
     "author": "ヘレン・ケラー",
     "content": "世界は美しい。だが、見ようとする勇気がいる。",
     "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
-    "created_at": 1776996662188
+    "created_at": 1776998522086
   },
   {
-    "id": "q_healing_05",
-    "category": "healing",
+    "id": "q_healing_04_b",
+    "categories": [
+      "healing",
+      "heartbreak"
+    ],
+    "author": "ヘレン・ケラー",
+    "content": "世界は美しい。だが、見ようとする勇気がいる。",
+    "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
+    "created_at": 1776998522087
+  },
+  {
+    "id": "q_healing_05_a",
+    "categories": [
+      "healing",
+      "health"
+    ],
     "author": "老子",
     "content": "千里の道も一歩から。",
     "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
-    "created_at": 1776996662189
+    "created_at": 1776998522088
   },
   {
-    "id": "q_healing_06",
-    "category": "healing",
+    "id": "q_healing_05_b",
+    "categories": [
+      "healing",
+      "heartbreak"
+    ],
+    "author": "老子",
+    "content": "千里の道も一歩から。",
+    "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
+    "created_at": 1776998522089
+  },
+  {
+    "id": "q_healing_06_a",
+    "categories": [
+      "healing",
+      "health"
+    ],
     "author": "マルクス・アウレリウス",
     "content": "痛みは意見に過ぎない。",
     "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
-    "created_at": 1776996662190
+    "created_at": 1776998522090
   },
   {
-    "id": "q_healing_07",
-    "category": "healing",
+    "id": "q_healing_06_b",
+    "categories": [
+      "healing",
+      "heartbreak"
+    ],
+    "author": "マルクス・アウレリウス",
+    "content": "痛みは意見に過ぎない。",
+    "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
+    "created_at": 1776998522091
+  },
+  {
+    "id": "q_healing_07_a",
+    "categories": [
+      "healing",
+      "health"
+    ],
     "author": "ブレーズ・パスカル",
     "content": "心の静けさこそ、最大の勝利だ。",
     "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
-    "created_at": 1776996662191
+    "created_at": 1776998522092
   },
   {
-    "id": "q_healing_08",
-    "category": "healing",
+    "id": "q_healing_07_b",
+    "categories": [
+      "healing",
+      "heartbreak"
+    ],
+    "author": "ブレーズ・パスカル",
+    "content": "心の静けさこそ、最大の勝利だ。",
+    "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
+    "created_at": 1776998522093
+  },
+  {
+    "id": "q_healing_08_a",
+    "categories": [
+      "healing",
+      "health"
+    ],
     "author": "メイ・サトン",
     "content": "癒しは、許しから始まる。",
     "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
-    "created_at": 1776996662192
+    "created_at": 1776998522094
   },
   {
-    "id": "q_healing_09",
-    "category": "healing",
+    "id": "q_healing_08_b",
+    "categories": [
+      "healing",
+      "heartbreak"
+    ],
+    "author": "メイ・サトン",
+    "content": "癒しは、許しから始まる。",
+    "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
+    "created_at": 1776998522095
+  },
+  {
+    "id": "q_healing_09_a",
+    "categories": [
+      "healing",
+      "health"
+    ],
     "author": "フレデリック・ルキス",
     "content": "休息は魂の呼吸だ。",
     "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
-    "created_at": 1776996662193
+    "created_at": 1776998522096
   },
   {
-    "id": "q_healing_10",
-    "category": "healing",
+    "id": "q_healing_09_b",
+    "categories": [
+      "healing",
+      "heartbreak"
+    ],
+    "author": "フレデリック・ルキス",
+    "content": "休息は魂の呼吸だ。",
+    "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
+    "created_at": 1776998522097
+  },
+  {
+    "id": "q_healing_10_a",
+    "categories": [
+      "healing",
+      "health"
+    ],
     "author": "ルミー（伝承）",
     "content": "傷は、光が入る場所だ。",
     "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
-    "created_at": 1776996662194
+    "created_at": 1776998522098
   },
   {
-    "id": "q_romance_01",
-    "category": "romance",
+    "id": "q_healing_10_b",
+    "categories": [
+      "healing",
+      "heartbreak"
+    ],
+    "author": "ルミー（伝承）",
+    "content": "傷は、光が入る場所だ。",
+    "explanation": "心が張りつめた日、この言葉は『休むことも前進』だと許してくれます。焦りを手放し、自分をいたわる時間を取り戻すきっかけになります。",
+    "created_at": 1776998522099
+  },
+  {
+    "id": "q_romance_01_a",
+    "categories": [
+      "romance",
+      "self_confidence"
+    ],
     "author": "ヴィクトル・ユーゴー",
     "content": "人生で最大の喜びは、愛されていると確信するときだ。",
     "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
-    "created_at": 1776996662195
+    "created_at": 1776998522100
   },
   {
-    "id": "q_romance_02",
-    "category": "romance",
+    "id": "q_romance_01_b",
+    "categories": [
+      "romance",
+      "heartbreak"
+    ],
+    "author": "ヴィクトル・ユーゴー",
+    "content": "人生で最大の喜びは、愛されていると確信するときだ。",
+    "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
+    "created_at": 1776998522101
+  },
+  {
+    "id": "q_romance_02_a",
+    "categories": [
+      "romance",
+      "self_confidence"
+    ],
     "author": "レオ・トルストイ",
     "content": "愛はすべてを信じ、すべてを望み、すべてに耐える。",
     "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
-    "created_at": 1776996662196
+    "created_at": 1776998522102
   },
   {
-    "id": "q_romance_03",
-    "category": "romance",
+    "id": "q_romance_02_b",
+    "categories": [
+      "romance",
+      "heartbreak"
+    ],
+    "author": "レオ・トルストイ",
+    "content": "愛はすべてを信じ、すべてを望み、すべてに耐える。",
+    "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
+    "created_at": 1776998522103
+  },
+  {
+    "id": "q_romance_03_a",
+    "categories": [
+      "romance",
+      "self_confidence"
+    ],
     "author": "パブロ・ネルーダ",
     "content": "愛は短く、忘れるのは長い。",
     "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
-    "created_at": 1776996662197
+    "created_at": 1776998522104
   },
   {
-    "id": "q_romance_04",
-    "category": "romance",
+    "id": "q_romance_03_b",
+    "categories": [
+      "romance",
+      "heartbreak"
+    ],
+    "author": "パブロ・ネルーダ",
+    "content": "愛は短く、忘れるのは長い。",
+    "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
+    "created_at": 1776998522105
+  },
+  {
+    "id": "q_romance_04_a",
+    "categories": [
+      "romance",
+      "self_confidence"
+    ],
     "author": "ジェーン・オースティン",
     "content": "心が揺れるとき、正直であれ。",
     "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
-    "created_at": 1776996662198
+    "created_at": 1776998522106
   },
   {
-    "id": "q_romance_05",
-    "category": "romance",
+    "id": "q_romance_04_b",
+    "categories": [
+      "romance",
+      "heartbreak"
+    ],
+    "author": "ジェーン・オースティン",
+    "content": "心が揺れるとき、正直であれ。",
+    "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
+    "created_at": 1776998522107
+  },
+  {
+    "id": "q_romance_05_a",
+    "categories": [
+      "romance",
+      "self_confidence"
+    ],
     "author": "エミリー・ディキンソン",
     "content": "永遠は今だ。",
     "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
-    "created_at": 1776996662199
+    "created_at": 1776998522108
   },
   {
-    "id": "q_romance_06",
-    "category": "romance",
+    "id": "q_romance_05_b",
+    "categories": [
+      "romance",
+      "heartbreak"
+    ],
+    "author": "エミリー・ディキンソン",
+    "content": "永遠は今だ。",
+    "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
+    "created_at": 1776998522109
+  },
+  {
+    "id": "q_romance_06_a",
+    "categories": [
+      "romance",
+      "self_confidence"
+    ],
     "author": "ライン・ホールド・ニルソン",
     "content": "愛は小さな言葉の大きな意味だ。",
     "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
-    "created_at": 1776996662200
+    "created_at": 1776998522110
   },
   {
-    "id": "q_romance_07",
-    "category": "romance",
+    "id": "q_romance_06_b",
+    "categories": [
+      "romance",
+      "heartbreak"
+    ],
+    "author": "ライン・ホールド・ニルソン",
+    "content": "愛は小さな言葉の大きな意味だ。",
+    "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
+    "created_at": 1776998522111
+  },
+  {
+    "id": "q_romance_07_a",
+    "categories": [
+      "romance",
+      "self_confidence"
+    ],
     "author": "マルグリット・デュラス",
     "content": "愛より強いものは、愛の記憶だ。",
     "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
-    "created_at": 1776996662201
+    "created_at": 1776998522112
   },
   {
-    "id": "q_romance_08",
-    "category": "romance",
+    "id": "q_romance_07_b",
+    "categories": [
+      "romance",
+      "heartbreak"
+    ],
+    "author": "マルグリット・デュラス",
+    "content": "愛より強いものは、愛の記憶だ。",
+    "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
+    "created_at": 1776998522113
+  },
+  {
+    "id": "q_romance_08_a",
+    "categories": [
+      "romance",
+      "self_confidence"
+    ],
     "author": "ウィリアム・シェイクスピア",
     "content": "愛は盲目ではない。むしろ視力を与える。",
     "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
-    "created_at": 1776996662202
+    "created_at": 1776998522114
   },
   {
-    "id": "q_romance_09",
-    "category": "romance",
+    "id": "q_romance_08_b",
+    "categories": [
+      "romance",
+      "heartbreak"
+    ],
+    "author": "ウィリアム・シェイクスピア",
+    "content": "愛は盲目ではない。むしろ視力を与える。",
+    "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
+    "created_at": 1776998522115
+  },
+  {
+    "id": "q_romance_09_a",
+    "categories": [
+      "romance",
+      "self_confidence"
+    ],
     "author": "孔子",
     "content": "仁は遠しからんや。我欲仁ならば斯仁至矣。",
     "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
-    "created_at": 1776996662203
+    "created_at": 1776998522116
   },
   {
-    "id": "q_romance_10",
-    "category": "romance",
+    "id": "q_romance_09_b",
+    "categories": [
+      "romance",
+      "heartbreak"
+    ],
+    "author": "孔子",
+    "content": "仁は遠しからんや。我欲仁ならば斯仁至矣。",
+    "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
+    "created_at": 1776998522117
+  },
+  {
+    "id": "q_romance_10_a",
+    "categories": [
+      "romance",
+      "self_confidence"
+    ],
     "author": "マルクス・アウレリウス",
     "content": "美徳だけが真の愛を育てる。",
     "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
-    "created_at": 1776996662204
+    "created_at": 1776998522118
   },
   {
-    "id": "q_family_01",
-    "category": "family",
+    "id": "q_romance_10_b",
+    "categories": [
+      "romance",
+      "heartbreak"
+    ],
+    "author": "マルクス・アウレリウス",
+    "content": "美徳だけが真の愛を育てる。",
+    "explanation": "恋愛で揺れる気持ちに、この言葉は相手だけでなく自分の尊さを思い出させてくれます。期待や不安に飲まれず、あたたかく関係を育てる目線をくれます。",
+    "created_at": 1776998522119
+  },
+  {
+    "id": "q_family_01_a",
+    "categories": [
+      "family",
+      "relationships"
+    ],
     "author": "マザー・テレサ",
     "content": "家庭の平和が世界の平和だ。",
     "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
-    "created_at": 1776996662205
+    "created_at": 1776998522120
   },
   {
-    "id": "q_family_02",
-    "category": "family",
+    "id": "q_family_01_b",
+    "categories": [
+      "family",
+      "money_life"
+    ],
+    "author": "マザー・テレサ",
+    "content": "家庭の平和が世界の平和だ。",
+    "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
+    "created_at": 1776998522121
+  },
+  {
+    "id": "q_family_02_a",
+    "categories": [
+      "family",
+      "relationships"
+    ],
     "author": "レオ・トルストイ",
     "content": "幸せな家庭はみな似ている。",
     "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
-    "created_at": 1776996662206
+    "created_at": 1776998522122
   },
   {
-    "id": "q_family_03",
-    "category": "family",
+    "id": "q_family_02_b",
+    "categories": [
+      "family",
+      "money_life"
+    ],
+    "author": "レオ・トルストイ",
+    "content": "幸せな家庭はみな似ている。",
+    "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
+    "created_at": 1776998522123
+  },
+  {
+    "id": "q_family_03_a",
+    "categories": [
+      "family",
+      "relationships"
+    ],
     "author": "アブラハム・リンカーン",
     "content": "八歳までに教えよ。あとは手を離せ。",
     "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
-    "created_at": 1776996662207
+    "created_at": 1776998522124
   },
   {
-    "id": "q_family_04",
-    "category": "family",
+    "id": "q_family_03_b",
+    "categories": [
+      "family",
+      "money_life"
+    ],
+    "author": "アブラハム・リンカーン",
+    "content": "八歳までに教えよ。あとは手を離せ。",
+    "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
+    "created_at": 1776998522125
+  },
+  {
+    "id": "q_family_04_a",
+    "categories": [
+      "family",
+      "relationships"
+    ],
     "author": "マヤ・アンジェロウ",
     "content": "家族は、血よりも行いでできあがる。",
     "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
-    "created_at": 1776996662208
+    "created_at": 1776998522126
   },
   {
-    "id": "q_family_05",
-    "category": "family",
+    "id": "q_family_04_b",
+    "categories": [
+      "family",
+      "money_life"
+    ],
+    "author": "マヤ・アンジェロウ",
+    "content": "家族は、血よりも行いでできあがる。",
+    "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
+    "created_at": 1776998522127
+  },
+  {
+    "id": "q_family_05_a",
+    "categories": [
+      "family",
+      "relationships"
+    ],
     "author": "アフリカのことわざ",
     "content": "子を育てるには全村が必要。",
     "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
-    "created_at": 1776996662209
+    "created_at": 1776998522128
   },
   {
-    "id": "q_family_06",
-    "category": "family",
+    "id": "q_family_05_b",
+    "categories": [
+      "family",
+      "money_life"
+    ],
+    "author": "アフリカのことわざ",
+    "content": "子を育てるには全村が必要。",
+    "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
+    "created_at": 1776998522129
+  },
+  {
+    "id": "q_family_06_a",
+    "categories": [
+      "family",
+      "relationships"
+    ],
     "author": "孔子",
     "content": "孝は、仁の本なり。",
     "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
-    "created_at": 1776996662210
+    "created_at": 1776998522130
   },
   {
-    "id": "q_family_07",
-    "category": "family",
+    "id": "q_family_06_b",
+    "categories": [
+      "family",
+      "money_life"
+    ],
+    "author": "孔子",
+    "content": "孝は、仁の本なり。",
+    "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
+    "created_at": 1776998522131
+  },
+  {
+    "id": "q_family_07_a",
+    "categories": [
+      "family",
+      "relationships"
+    ],
     "author": "ヘレン・ケラー",
     "content": "共に笑い、共に泣いた者こそ家族だ。",
     "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
-    "created_at": 1776996662211
+    "created_at": 1776998522132
   },
   {
-    "id": "q_family_08",
-    "category": "family",
+    "id": "q_family_07_b",
+    "categories": [
+      "family",
+      "money_life"
+    ],
+    "author": "ヘレン・ケラー",
+    "content": "共に笑い、共に泣いた者こそ家族だ。",
+    "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
+    "created_at": 1776998522133
+  },
+  {
+    "id": "q_family_08_a",
+    "categories": [
+      "family",
+      "relationships"
+    ],
     "author": "ウィンストン・チャーチル",
     "content": "家は国の砦なり。",
     "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
-    "created_at": 1776996662212
+    "created_at": 1776998522134
   },
   {
-    "id": "q_family_09",
-    "category": "family",
+    "id": "q_family_08_b",
+    "categories": [
+      "family",
+      "money_life"
+    ],
+    "author": "ウィンストン・チャーチル",
+    "content": "家は国の砦なり。",
+    "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
+    "created_at": 1776998522135
+  },
+  {
+    "id": "q_family_09_a",
+    "categories": [
+      "family",
+      "relationships"
+    ],
     "author": "バーバラ・ブッシュ",
     "content": "家は心の避難所だ。",
     "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
-    "created_at": 1776996662213
+    "created_at": 1776998522136
   },
   {
-    "id": "q_family_10",
-    "category": "family",
+    "id": "q_family_09_b",
+    "categories": [
+      "family",
+      "money_life"
+    ],
+    "author": "バーバラ・ブッシュ",
+    "content": "家は心の避難所だ。",
+    "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
+    "created_at": 1776998522137
+  },
+  {
+    "id": "q_family_10_a",
+    "categories": [
+      "family",
+      "relationships"
+    ],
     "author": "アンソニー・ロビンズ",
     "content": "愛の言葉は、子の未来の地図になる。",
     "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
-    "created_at": 1776996662214
+    "created_at": 1776998522138
   },
   {
-    "id": "q_money_life_01",
-    "category": "money_life",
+    "id": "q_family_10_b",
+    "categories": [
+      "family",
+      "money_life"
+    ],
+    "author": "アンソニー・ロビンズ",
+    "content": "愛の言葉は、子の未来の地図になる。",
+    "explanation": "家族の悩みで苦しいとき、この言葉は正しさより『つながり』を大切にする視点をくれます。すぐに解決できなくても、心の距離を近づける一歩になります。",
+    "created_at": 1776998522139
+  },
+  {
+    "id": "q_money_life_01_a",
+    "categories": [
+      "money_life",
+      "future"
+    ],
     "author": "ベンジャミン・フランクリン",
     "content": "貯蓄は収入の母だ。",
     "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
-    "created_at": 1776996662215
+    "created_at": 1776998522140
   },
   {
-    "id": "q_money_life_02",
-    "category": "money_life",
+    "id": "q_money_life_01_b",
+    "categories": [
+      "money_life",
+      "time_stress"
+    ],
+    "author": "ベンジャミン・フランクリン",
+    "content": "貯蓄は収入の母だ。",
+    "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
+    "created_at": 1776998522141
+  },
+  {
+    "id": "q_money_life_02_a",
+    "categories": [
+      "money_life",
+      "future"
+    ],
     "author": "ウォーレン・バフェット",
     "content": "価格は支払うもの、価値は得るもの。",
     "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
-    "created_at": 1776996662216
+    "created_at": 1776998522142
   },
   {
-    "id": "q_money_life_03",
-    "category": "money_life",
+    "id": "q_money_life_02_b",
+    "categories": [
+      "money_life",
+      "time_stress"
+    ],
+    "author": "ウォーレン・バフェット",
+    "content": "価格は支払うもの、価値は得るもの。",
+    "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
+    "created_at": 1776998522143
+  },
+  {
+    "id": "q_money_life_03_a",
+    "categories": [
+      "money_life",
+      "future"
+    ],
     "author": "ピーター・ドラッカー",
     "content": "測定できなければ、改善できない。",
     "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
-    "created_at": 1776996662217
+    "created_at": 1776998522144
   },
   {
-    "id": "q_money_life_04",
-    "category": "money_life",
+    "id": "q_money_life_03_b",
+    "categories": [
+      "money_life",
+      "time_stress"
+    ],
+    "author": "ピーター・ドラッカー",
+    "content": "測定できなければ、改善できない。",
+    "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
+    "created_at": 1776998522145
+  },
+  {
+    "id": "q_money_life_04_a",
+    "categories": [
+      "money_life",
+      "future"
+    ],
     "author": "アリストテレス",
     "content": "富は手段に過ぎず、目的ではない。",
     "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
-    "created_at": 1776996662218
+    "created_at": 1776998522146
   },
   {
-    "id": "q_money_life_05",
-    "category": "money_life",
+    "id": "q_money_life_04_b",
+    "categories": [
+      "money_life",
+      "time_stress"
+    ],
+    "author": "アリストテレス",
+    "content": "富は手段に過ぎず、目的ではない。",
+    "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
+    "created_at": 1776998522147
+  },
+  {
+    "id": "q_money_life_05_a",
+    "categories": [
+      "money_life",
+      "future"
+    ],
     "author": "セネカ",
     "content": "欲は足るを知らぬ。",
     "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
-    "created_at": 1776996662219
+    "created_at": 1776998522148
   },
   {
-    "id": "q_money_life_06",
-    "category": "money_life",
+    "id": "q_money_life_05_b",
+    "categories": [
+      "money_life",
+      "time_stress"
+    ],
+    "author": "セネカ",
+    "content": "欲は足るを知らぬ。",
+    "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
+    "created_at": 1776998522149
+  },
+  {
+    "id": "q_money_life_06_a",
+    "categories": [
+      "money_life",
+      "future"
+    ],
     "author": "孔子",
     "content": "君子は財を義に従わしむ。",
     "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
-    "created_at": 1776996662220
+    "created_at": 1776998522150
   },
   {
-    "id": "q_money_life_07",
-    "category": "money_life",
+    "id": "q_money_life_06_b",
+    "categories": [
+      "money_life",
+      "time_stress"
+    ],
+    "author": "孔子",
+    "content": "君子は財を義に従わしむ。",
+    "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
+    "created_at": 1776998522151
+  },
+  {
+    "id": "q_money_life_07_a",
+    "categories": [
+      "money_life",
+      "future"
+    ],
     "author": "ヘンリー・フォード",
     "content": "思考は現実化する。",
     "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
-    "created_at": 1776996662221
+    "created_at": 1776998522152
   },
   {
-    "id": "q_money_life_08",
-    "category": "money_life",
+    "id": "q_money_life_07_b",
+    "categories": [
+      "money_life",
+      "time_stress"
+    ],
+    "author": "ヘンリー・フォード",
+    "content": "思考は現実化する。",
+    "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
+    "created_at": 1776998522153
+  },
+  {
+    "id": "q_money_life_08_a",
+    "categories": [
+      "money_life",
+      "future"
+    ],
     "author": "ラルフ・ワルド・エマソン",
     "content": "浪費は貧乏の母だ。",
     "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
-    "created_at": 1776996662222
+    "created_at": 1776998522154
   },
   {
-    "id": "q_money_life_09",
-    "category": "money_life",
+    "id": "q_money_life_08_b",
+    "categories": [
+      "money_life",
+      "time_stress"
+    ],
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "浪費は貧乏の母だ。",
+    "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
+    "created_at": 1776998522155
+  },
+  {
+    "id": "q_money_life_09_a",
+    "categories": [
+      "money_life",
+      "future"
+    ],
     "author": "トーマス・フラー",
     "content": "今日のペニーが、明日のポンドになる。",
     "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
-    "created_at": 1776996662223
+    "created_at": 1776998522156
   },
   {
-    "id": "q_money_life_10",
-    "category": "money_life",
+    "id": "q_money_life_09_b",
+    "categories": [
+      "money_life",
+      "time_stress"
+    ],
+    "author": "トーマス・フラー",
+    "content": "今日のペニーが、明日のポンドになる。",
+    "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
+    "created_at": 1776998522157
+  },
+  {
+    "id": "q_money_life_10_a",
+    "categories": [
+      "money_life",
+      "future"
+    ],
     "author": "ソフォクレス",
     "content": "欲深き者は、いつも貧しい。",
     "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
-    "created_at": 1776996662224
+    "created_at": 1776998522158
   },
   {
-    "id": "q_health_01",
-    "category": "health",
+    "id": "q_money_life_10_b",
+    "categories": [
+      "money_life",
+      "time_stress"
+    ],
+    "author": "ソフォクレス",
+    "content": "欲深き者は、いつも貧しい。",
+    "explanation": "生活やお金への不安が強いとき、この言葉は不足感を整え、選べる行動に意識を向けさせてくれます。できる範囲を積み重ねることで、暮らしの手応えが戻ります。",
+    "created_at": 1776998522159
+  },
+  {
+    "id": "q_health_01_a",
+    "categories": [
+      "health",
+      "healing"
+    ],
     "author": "ヒポクラテス",
     "content": "食はあなたの薬、薬はあなたの食。",
     "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
-    "created_at": 1776996662225
+    "created_at": 1776998522160
   },
   {
-    "id": "q_health_02",
-    "category": "health",
+    "id": "q_health_01_b",
+    "categories": [
+      "health",
+      "motivation"
+    ],
+    "author": "ヒポクラテス",
+    "content": "食はあなたの薬、薬はあなたの食。",
+    "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
+    "created_at": 1776998522161
+  },
+  {
+    "id": "q_health_02_a",
+    "categories": [
+      "health",
+      "healing"
+    ],
     "author": "トーマス・ジェファーソン",
     "content": "歩くことは人間にとって最高の鎮静剤だ。",
     "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
-    "created_at": 1776996662226
+    "created_at": 1776998522162
   },
   {
-    "id": "q_health_03",
-    "category": "health",
+    "id": "q_health_02_b",
+    "categories": [
+      "health",
+      "motivation"
+    ],
+    "author": "トーマス・ジェファーソン",
+    "content": "歩くことは人間にとって最高の鎮静剤だ。",
+    "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
+    "created_at": 1776998522163
+  },
+  {
+    "id": "q_health_03_a",
+    "categories": [
+      "health",
+      "healing"
+    ],
     "author": "ジム・ローン",
     "content": "体は、あなたが住む唯一の家だ。",
     "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
-    "created_at": 1776996662227
+    "created_at": 1776998522164
   },
   {
-    "id": "q_health_04",
-    "category": "health",
+    "id": "q_health_03_b",
+    "categories": [
+      "health",
+      "motivation"
+    ],
+    "author": "ジム・ローン",
+    "content": "体は、あなたが住む唯一の家だ。",
+    "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
+    "created_at": 1776998522165
+  },
+  {
+    "id": "q_health_04_a",
+    "categories": [
+      "health",
+      "healing"
+    ],
     "author": "マハトマ・ガンディー",
     "content": "健康は、富の真の富である。",
     "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
-    "created_at": 1776996662228
+    "created_at": 1776998522166
   },
   {
-    "id": "q_health_05",
-    "category": "health",
+    "id": "q_health_04_b",
+    "categories": [
+      "health",
+      "motivation"
+    ],
+    "author": "マハトマ・ガンディー",
+    "content": "健康は、富の真の富である。",
+    "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
+    "created_at": 1776998522167
+  },
+  {
+    "id": "q_health_05_a",
+    "categories": [
+      "health",
+      "healing"
+    ],
     "author": "セネカ",
     "content": "心の病は、体の病より重い。",
     "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
-    "created_at": 1776996662229
+    "created_at": 1776998522168
   },
   {
-    "id": "q_health_06",
-    "category": "health",
+    "id": "q_health_05_b",
+    "categories": [
+      "health",
+      "motivation"
+    ],
+    "author": "セネカ",
+    "content": "心の病は、体の病より重い。",
+    "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
+    "created_at": 1776998522169
+  },
+  {
+    "id": "q_health_06_a",
+    "categories": [
+      "health",
+      "healing"
+    ],
     "author": "ブッダ（伝承）",
     "content": "健康は最大の宝。",
     "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
-    "created_at": 1776996662230
+    "created_at": 1776998522170
   },
   {
-    "id": "q_health_07",
-    "category": "health",
+    "id": "q_health_06_b",
+    "categories": [
+      "health",
+      "motivation"
+    ],
+    "author": "ブッダ（伝承）",
+    "content": "健康は最大の宝。",
+    "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
+    "created_at": 1776998522171
+  },
+  {
+    "id": "q_health_07_a",
+    "categories": [
+      "health",
+      "healing"
+    ],
     "author": "ラルフ・ワルド・エマソン",
     "content": "睡眠の最初の一秒が、一日の質を決める。",
     "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
-    "created_at": 1776996662231
+    "created_at": 1776998522172
   },
   {
-    "id": "q_health_08",
-    "category": "health",
+    "id": "q_health_07_b",
+    "categories": [
+      "health",
+      "motivation"
+    ],
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "睡眠の最初の一秒が、一日の質を決める。",
+    "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
+    "created_at": 1776998522173
+  },
+  {
+    "id": "q_health_08_a",
+    "categories": [
+      "health",
+      "healing"
+    ],
     "author": "アリストテレス",
     "content": "適度は、快の中の徳だ。",
     "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
-    "created_at": 1776996662232
+    "created_at": 1776998522174
   },
   {
-    "id": "q_health_09",
-    "category": "health",
+    "id": "q_health_08_b",
+    "categories": [
+      "health",
+      "motivation"
+    ],
+    "author": "アリストテレス",
+    "content": "適度は、快の中の徳だ。",
+    "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
+    "created_at": 1776998522175
+  },
+  {
+    "id": "q_health_09_a",
+    "categories": [
+      "health",
+      "healing"
+    ],
     "author": "ヴィルギル",
     "content": "健康な心は、健康な体の中に宿る。",
     "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
-    "created_at": 1776996662233
+    "created_at": 1776998522176
   },
   {
-    "id": "q_health_10",
-    "category": "health",
+    "id": "q_health_09_b",
+    "categories": [
+      "health",
+      "motivation"
+    ],
+    "author": "ヴィルギル",
+    "content": "健康な心は、健康な体の中に宿る。",
+    "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
+    "created_at": 1776998522177
+  },
+  {
+    "id": "q_health_10_a",
+    "categories": [
+      "health",
+      "healing"
+    ],
     "author": "孔子",
     "content": "仁者は寿ぐ。",
     "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
-    "created_at": 1776996662234
+    "created_at": 1776998522178
   },
   {
-    "id": "q_heartbreak_01",
-    "category": "heartbreak",
+    "id": "q_health_10_b",
+    "categories": [
+      "health",
+      "motivation"
+    ],
+    "author": "孔子",
+    "content": "仁者は寿ぐ。",
+    "explanation": "体調や体力に悩むとき、この言葉は自分の身体を責めるより労わる姿勢へ導きます。小さなケアを続ける意味を感じられ、回復への希望が育ちます。",
+    "created_at": 1776998522179
+  },
+  {
+    "id": "q_heartbreak_01_a",
+    "categories": [
+      "heartbreak",
+      "romance"
+    ],
     "author": "アルフレッド・テニスン",
     "content": "愛し、失うより、愛さぬほうが辛い。",
     "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
-    "created_at": 1776996662235
+    "created_at": 1776998522180
   },
   {
-    "id": "q_heartbreak_02",
-    "category": "heartbreak",
+    "id": "q_heartbreak_01_b",
+    "categories": [
+      "heartbreak",
+      "healing"
+    ],
+    "author": "アルフレッド・テニスン",
+    "content": "愛し、失うより、愛さぬほうが辛い。",
+    "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
+    "created_at": 1776998522181
+  },
+  {
+    "id": "q_heartbreak_02_a",
+    "categories": [
+      "heartbreak",
+      "romance"
+    ],
     "author": "ヘレン・ケラー",
     "content": "涙のあとには、虹が待っている。",
     "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
-    "created_at": 1776996662236
+    "created_at": 1776998522182
   },
   {
-    "id": "q_heartbreak_03",
-    "category": "heartbreak",
+    "id": "q_heartbreak_02_b",
+    "categories": [
+      "heartbreak",
+      "healing"
+    ],
+    "author": "ヘレン・ケラー",
+    "content": "涙のあとには、虹が待っている。",
+    "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
+    "created_at": 1776998522183
+  },
+  {
+    "id": "q_heartbreak_03_a",
+    "categories": [
+      "heartbreak",
+      "romance"
+    ],
     "author": "マヤ・アンジェロウ",
     "content": "すべての嵐は、いつか過ぎ去る。",
     "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
-    "created_at": 1776996662237
+    "created_at": 1776998522184
   },
   {
-    "id": "q_heartbreak_04",
-    "category": "heartbreak",
+    "id": "q_heartbreak_03_b",
+    "categories": [
+      "heartbreak",
+      "healing"
+    ],
+    "author": "マヤ・アンジェロウ",
+    "content": "すべての嵐は、いつか過ぎ去る。",
+    "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
+    "created_at": 1776998522185
+  },
+  {
+    "id": "q_heartbreak_04_a",
+    "categories": [
+      "heartbreak",
+      "romance"
+    ],
     "author": "ラビンドラナート・タゴール",
     "content": "別れは次の出会いの扉だ。",
     "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
-    "created_at": 1776996662238
+    "created_at": 1776998522186
   },
   {
-    "id": "q_heartbreak_05",
-    "category": "heartbreak",
+    "id": "q_heartbreak_04_b",
+    "categories": [
+      "heartbreak",
+      "healing"
+    ],
+    "author": "ラビンドラナート・タゴール",
+    "content": "別れは次の出会いの扉だ。",
+    "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
+    "created_at": 1776998522187
+  },
+  {
+    "id": "q_heartbreak_05_a",
+    "categories": [
+      "heartbreak",
+      "romance"
+    ],
     "author": "レオ・ブスカーリア",
     "content": "痛みは、成長のための郵便だ。",
     "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
-    "created_at": 1776996662239
+    "created_at": 1776998522188
   },
   {
-    "id": "q_heartbreak_06",
-    "category": "heartbreak",
+    "id": "q_heartbreak_05_b",
+    "categories": [
+      "heartbreak",
+      "healing"
+    ],
+    "author": "レオ・ブスカーリア",
+    "content": "痛みは、成長のための郵便だ。",
+    "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
+    "created_at": 1776998522189
+  },
+  {
+    "id": "q_heartbreak_06_a",
+    "categories": [
+      "heartbreak",
+      "romance"
+    ],
     "author": "カーニー・ロス",
     "content": "心が折れても、愛の記憶は折れない。",
     "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
-    "created_at": 1776996662240
+    "created_at": 1776998522190
   },
   {
-    "id": "q_heartbreak_07",
-    "category": "heartbreak",
+    "id": "q_heartbreak_06_b",
+    "categories": [
+      "heartbreak",
+      "healing"
+    ],
+    "author": "カーニー・ロス",
+    "content": "心が折れても、愛の記憶は折れない。",
+    "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
+    "created_at": 1776998522191
+  },
+  {
+    "id": "q_heartbreak_07_a",
+    "categories": [
+      "heartbreak",
+      "romance"
+    ],
     "author": "ウィリアム・シェイクスピア",
     "content": "別れは甘い悲しみだ。",
     "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
-    "created_at": 1776996662241
+    "created_at": 1776998522192
   },
   {
-    "id": "q_heartbreak_08",
-    "category": "heartbreak",
+    "id": "q_heartbreak_07_b",
+    "categories": [
+      "heartbreak",
+      "healing"
+    ],
+    "author": "ウィリアム・シェイクスピア",
+    "content": "別れは甘い悲しみだ。",
+    "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
+    "created_at": 1776998522193
+  },
+  {
+    "id": "q_heartbreak_08_a",
+    "categories": [
+      "heartbreak",
+      "romance"
+    ],
     "author": "マルクス・アウレリウス",
     "content": "失ったものより、残った自分を見よ。",
     "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
-    "created_at": 1776996662242
+    "created_at": 1776998522194
   },
   {
-    "id": "q_heartbreak_09",
-    "category": "heartbreak",
+    "id": "q_heartbreak_08_b",
+    "categories": [
+      "heartbreak",
+      "healing"
+    ],
+    "author": "マルクス・アウレリウス",
+    "content": "失ったものより、残った自分を見よ。",
+    "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
+    "created_at": 1776998522195
+  },
+  {
+    "id": "q_heartbreak_09_a",
+    "categories": [
+      "heartbreak",
+      "romance"
+    ],
     "author": "エミリー・ディキンソン",
     "content": "痛みには終わりがある。",
     "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
-    "created_at": 1776996662243
+    "created_at": 1776998522196
   },
   {
-    "id": "q_heartbreak_10",
-    "category": "heartbreak",
+    "id": "q_heartbreak_09_b",
+    "categories": [
+      "heartbreak",
+      "healing"
+    ],
+    "author": "エミリー・ディキンソン",
+    "content": "痛みには終わりがある。",
+    "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
+    "created_at": 1776998522197
+  },
+  {
+    "id": "q_heartbreak_10_a",
+    "categories": [
+      "heartbreak",
+      "romance"
+    ],
     "author": "老子",
     "content": "柔よく剛を制す。",
     "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
-    "created_at": 1776996662244
+    "created_at": 1776998522198
   },
   {
-    "id": "q_new_environment_01",
-    "category": "new_environment",
+    "id": "q_heartbreak_10_b",
+    "categories": [
+      "heartbreak",
+      "healing"
+    ],
+    "author": "老子",
+    "content": "柔よく剛を制す。",
+    "explanation": "失恋や別れで心が痛むとき、この言葉は痛みの中にも再生の時間があると伝えてくれます。涙の意味を否定せず、次の自分へ進む力をそっと灯します。",
+    "created_at": 1776998522199
+  },
+  {
+    "id": "q_new_environment_01_a",
+    "categories": [
+      "new_environment",
+      "future"
+    ],
     "author": "ヘレン・ケラー",
     "content": "人生は冒険か、何もないかだ。",
     "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
-    "created_at": 1776996662245
+    "created_at": 1776998522200
   },
   {
-    "id": "q_new_environment_02",
-    "category": "new_environment",
+    "id": "q_new_environment_01_b",
+    "categories": [
+      "new_environment",
+      "relationships"
+    ],
+    "author": "ヘレン・ケラー",
+    "content": "人生は冒険か、何もないかだ。",
+    "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
+    "created_at": 1776998522201
+  },
+  {
+    "id": "q_new_environment_02_a",
+    "categories": [
+      "new_environment",
+      "future"
+    ],
     "author": "ヘンリー・ミラー",
     "content": "目的地ではなく、旅そのものが報酬だ。",
     "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
-    "created_at": 1776996662246
+    "created_at": 1776998522202
   },
   {
-    "id": "q_new_environment_03",
-    "category": "new_environment",
+    "id": "q_new_environment_02_b",
+    "categories": [
+      "new_environment",
+      "relationships"
+    ],
+    "author": "ヘンリー・ミラー",
+    "content": "目的地ではなく、旅そのものが報酬だ。",
+    "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
+    "created_at": 1776998522203
+  },
+  {
+    "id": "q_new_environment_03_a",
+    "categories": [
+      "new_environment",
+      "future"
+    ],
     "author": "マルクス・アウレリウス",
     "content": "障害は道を曲げるが、止めはしない。",
     "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
-    "created_at": 1776996662247
+    "created_at": 1776998522204
   },
   {
-    "id": "q_new_environment_04",
-    "category": "new_environment",
+    "id": "q_new_environment_03_b",
+    "categories": [
+      "new_environment",
+      "relationships"
+    ],
+    "author": "マルクス・アウレリウス",
+    "content": "障害は道を曲げるが、止めはしない。",
+    "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
+    "created_at": 1776998522205
+  },
+  {
+    "id": "q_new_environment_04_a",
+    "categories": [
+      "new_environment",
+      "future"
+    ],
     "author": "ラルフ・ワルド・エマソン",
     "content": "踏み出した一歩が、新しい道を作る。",
     "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
-    "created_at": 1776996662248
+    "created_at": 1776998522206
   },
   {
-    "id": "q_new_environment_05",
-    "category": "new_environment",
+    "id": "q_new_environment_04_b",
+    "categories": [
+      "new_environment",
+      "relationships"
+    ],
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "踏み出した一歩が、新しい道を作る。",
+    "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
+    "created_at": 1776998522207
+  },
+  {
+    "id": "q_new_environment_05_a",
+    "categories": [
+      "new_environment",
+      "future"
+    ],
     "author": "孔子",
     "content": "温故知新。",
     "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
-    "created_at": 1776996662249
+    "created_at": 1776998522208
   },
   {
-    "id": "q_new_environment_06",
-    "category": "new_environment",
+    "id": "q_new_environment_05_b",
+    "categories": [
+      "new_environment",
+      "relationships"
+    ],
+    "author": "孔子",
+    "content": "温故知新。",
+    "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
+    "created_at": 1776998522209
+  },
+  {
+    "id": "q_new_environment_06_a",
+    "categories": [
+      "new_environment",
+      "future"
+    ],
     "author": "セネカ",
     "content": "変化は、生命の調味料だ。",
     "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
-    "created_at": 1776996662250
+    "created_at": 1776998522210
   },
   {
-    "id": "q_new_environment_07",
-    "category": "new_environment",
+    "id": "q_new_environment_06_b",
+    "categories": [
+      "new_environment",
+      "relationships"
+    ],
+    "author": "セネカ",
+    "content": "変化は、生命の調味料だ。",
+    "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
+    "created_at": 1776998522211
+  },
+  {
+    "id": "q_new_environment_07_a",
+    "categories": [
+      "new_environment",
+      "future"
+    ],
     "author": "アリストテレス",
     "content": "習慣は第二の天性なり。",
     "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
-    "created_at": 1776996662251
+    "created_at": 1776998522212
   },
   {
-    "id": "q_new_environment_08",
-    "category": "new_environment",
+    "id": "q_new_environment_07_b",
+    "categories": [
+      "new_environment",
+      "relationships"
+    ],
+    "author": "アリストテレス",
+    "content": "習慣は第二の天性なり。",
+    "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
+    "created_at": 1776998522213
+  },
+  {
+    "id": "q_new_environment_08_a",
+    "categories": [
+      "new_environment",
+      "future"
+    ],
     "author": "ブレーズ・パスカル",
     "content": "人は島ではない。大陸の一片だ。",
     "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
-    "created_at": 1776996662252
+    "created_at": 1776998522214
   },
   {
-    "id": "q_new_environment_09",
-    "category": "new_environment",
+    "id": "q_new_environment_08_b",
+    "categories": [
+      "new_environment",
+      "relationships"
+    ],
+    "author": "ブレーズ・パスカル",
+    "content": "人は島ではない。大陸の一片だ。",
+    "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
+    "created_at": 1776998522215
+  },
+  {
+    "id": "q_new_environment_09_a",
+    "categories": [
+      "new_environment",
+      "future"
+    ],
     "author": "ヨハン・ヴォルフガング・フォン・ゲーテ",
     "content": "居心地の悪さは、成長の前触れだ。",
     "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
-    "created_at": 1776996662253
+    "created_at": 1776998522216
   },
   {
-    "id": "q_new_environment_10",
-    "category": "new_environment",
+    "id": "q_new_environment_09_b",
+    "categories": [
+      "new_environment",
+      "relationships"
+    ],
+    "author": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+    "content": "居心地の悪さは、成長の前触れだ。",
+    "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
+    "created_at": 1776998522217
+  },
+  {
+    "id": "q_new_environment_10_a",
+    "categories": [
+      "new_environment",
+      "future"
+    ],
     "author": "ヘンリー・フォード",
     "content": "失敗は、やり直す機会に他ならない。",
     "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
-    "created_at": 1776996662254
+    "created_at": 1776998522218
   },
   {
-    "id": "q_time_stress_01",
-    "category": "time_stress",
+    "id": "q_new_environment_10_b",
+    "categories": [
+      "new_environment",
+      "relationships"
+    ],
+    "author": "ヘンリー・フォード",
+    "content": "失敗は、やり直す機会に他ならない。",
+    "explanation": "新しい環境で緊張するとき、この言葉は不慣れさを失敗ではなく成長の証に変えてくれます。焦らず馴染んでいく自分を信じる支えになります。",
+    "created_at": 1776998522219
+  },
+  {
+    "id": "q_time_stress_01_a",
+    "categories": [
+      "time_stress",
+      "study_work"
+    ],
     "author": "ベンジャミン・フランクリン",
     "content": "時間は金なり。",
     "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
-    "created_at": 1776996662255
+    "created_at": 1776998522220
   },
   {
-    "id": "q_time_stress_02",
-    "category": "time_stress",
+    "id": "q_time_stress_01_b",
+    "categories": [
+      "time_stress",
+      "money_life"
+    ],
+    "author": "ベンジャミン・フランクリン",
+    "content": "時間は金なり。",
+    "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
+    "created_at": 1776998522221
+  },
+  {
+    "id": "q_time_stress_02_a",
+    "categories": [
+      "time_stress",
+      "study_work"
+    ],
     "author": "ウィリアム・ペン",
     "content": "時間は欲しい者には短く、楽しむ者には長い。",
     "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
-    "created_at": 1776996662256
+    "created_at": 1776998522222
   },
   {
-    "id": "q_time_stress_03",
-    "category": "time_stress",
+    "id": "q_time_stress_02_b",
+    "categories": [
+      "time_stress",
+      "money_life"
+    ],
+    "author": "ウィリアム・ペン",
+    "content": "時間は欲しい者には短く、楽しむ者には長い。",
+    "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
+    "created_at": 1776998522223
+  },
+  {
+    "id": "q_time_stress_03_a",
+    "categories": [
+      "time_stress",
+      "study_work"
+    ],
     "author": "ピーター・ドラッカー",
     "content": "時間は希少資源である。",
     "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
-    "created_at": 1776996662257
+    "created_at": 1776998522224
   },
   {
-    "id": "q_time_stress_04",
-    "category": "time_stress",
+    "id": "q_time_stress_03_b",
+    "categories": [
+      "time_stress",
+      "money_life"
+    ],
+    "author": "ピーター・ドラッカー",
+    "content": "時間は希少資源である。",
+    "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
+    "created_at": 1776998522225
+  },
+  {
+    "id": "q_time_stress_04_a",
+    "categories": [
+      "time_stress",
+      "study_work"
+    ],
     "author": "スティーブ・ジョブズ",
     "content": "時間は有限だ。他人の人生を生きるな。",
     "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
-    "created_at": 1776996662258
+    "created_at": 1776998522226
   },
   {
-    "id": "q_time_stress_05",
-    "category": "time_stress",
+    "id": "q_time_stress_04_b",
+    "categories": [
+      "time_stress",
+      "money_life"
+    ],
+    "author": "スティーブ・ジョブズ",
+    "content": "時間は有限だ。他人の人生を生きるな。",
+    "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
+    "created_at": 1776998522227
+  },
+  {
+    "id": "q_time_stress_05_a",
+    "categories": [
+      "time_stress",
+      "study_work"
+    ],
     "author": "セネカ",
     "content": "人生は短いが、無駄にすれば長い。",
     "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
-    "created_at": 1776996662259
+    "created_at": 1776998522228
   },
   {
-    "id": "q_time_stress_06",
-    "category": "time_stress",
+    "id": "q_time_stress_05_b",
+    "categories": [
+      "time_stress",
+      "money_life"
+    ],
+    "author": "セネカ",
+    "content": "人生は短いが、無駄にすれば長い。",
+    "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
+    "created_at": 1776998522229
+  },
+  {
+    "id": "q_time_stress_06_a",
+    "categories": [
+      "time_stress",
+      "study_work"
+    ],
     "author": "孔子",
     "content": "逝者如斯夫、不舍昼夜。",
     "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
-    "created_at": 1776996662260
+    "created_at": 1776998522230
   },
   {
-    "id": "q_time_stress_07",
-    "category": "time_stress",
+    "id": "q_time_stress_06_b",
+    "categories": [
+      "time_stress",
+      "money_life"
+    ],
+    "author": "孔子",
+    "content": "逝者如斯夫、不舍昼夜。",
+    "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
+    "created_at": 1776998522231
+  },
+  {
+    "id": "q_time_stress_07_a",
+    "categories": [
+      "time_stress",
+      "study_work"
+    ],
     "author": "マルクス・アウレリウス",
     "content": "今ここに集中せよ。",
     "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
-    "created_at": 1776996662261
+    "created_at": 1776998522232
   },
   {
-    "id": "q_time_stress_08",
-    "category": "time_stress",
+    "id": "q_time_stress_07_b",
+    "categories": [
+      "time_stress",
+      "money_life"
+    ],
+    "author": "マルクス・アウレリウス",
+    "content": "今ここに集中せよ。",
+    "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
+    "created_at": 1776998522233
+  },
+  {
+    "id": "q_time_stress_08_a",
+    "categories": [
+      "time_stress",
+      "study_work"
+    ],
     "author": "レオ・トルストイ",
     "content": "明日のための唯一の時刻は、今だ。",
     "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
-    "created_at": 1776996662262
+    "created_at": 1776998522234
   },
   {
-    "id": "q_time_stress_09",
-    "category": "time_stress",
+    "id": "q_time_stress_08_b",
+    "categories": [
+      "time_stress",
+      "money_life"
+    ],
+    "author": "レオ・トルストイ",
+    "content": "明日のための唯一の時刻は、今だ。",
+    "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
+    "created_at": 1776998522235
+  },
+  {
+    "id": "q_time_stress_09_a",
+    "categories": [
+      "time_stress",
+      "study_work"
+    ],
     "author": "アール・ナイチンゲール",
     "content": "時間を支配する者が、人生を支配する。",
     "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
-    "created_at": 1776996662263
+    "created_at": 1776998522236
   },
   {
-    "id": "q_time_stress_10",
-    "category": "time_stress",
+    "id": "q_time_stress_09_b",
+    "categories": [
+      "time_stress",
+      "money_life"
+    ],
+    "author": "アール・ナイチンゲール",
+    "content": "時間を支配する者が、人生を支配する。",
+    "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
+    "created_at": 1776998522237
+  },
+  {
+    "id": "q_time_stress_10_a",
+    "categories": [
+      "time_stress",
+      "study_work"
+    ],
     "author": "チャールズ・ダーウィン",
     "content": "忍耐は、時間を味方につける。",
     "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
-    "created_at": 1776996662264
+    "created_at": 1776998522238
   },
   {
-    "id": "q_comparison_01",
-    "category": "comparison",
+    "id": "q_time_stress_10_b",
+    "categories": [
+      "time_stress",
+      "money_life"
+    ],
+    "author": "チャールズ・ダーウィン",
+    "content": "忍耐は、時間を味方につける。",
+    "explanation": "時間に追われて心が散るとき、この言葉は『いま大事な一つ』に焦点を戻してくれます。優先順位を整えることで、忙しさの中にも落ち着きが生まれます。",
+    "created_at": 1776998522239
+  },
+  {
+    "id": "q_comparison_01_a",
+    "categories": [
+      "comparison",
+      "self_confidence"
+    ],
     "author": "セネカ",
     "content": "他人と比べるな。自分の昨日と比べよ。",
     "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
-    "created_at": 1776996662265
+    "created_at": 1776998522240
   },
   {
-    "id": "q_comparison_02",
-    "category": "comparison",
+    "id": "q_comparison_01_b",
+    "categories": [
+      "comparison",
+      "relationships"
+    ],
+    "author": "セネカ",
+    "content": "他人と比べるな。自分の昨日と比べよ。",
+    "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
+    "created_at": 1776998522241
+  },
+  {
+    "id": "q_comparison_02_a",
+    "categories": [
+      "comparison",
+      "self_confidence"
+    ],
     "author": "マルクス・アウレリウス",
     "content": "隣人の庭の緑は、遠くから濃く見える。",
     "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
-    "created_at": 1776996662266
+    "created_at": 1776998522242
   },
   {
-    "id": "q_comparison_03",
-    "category": "comparison",
+    "id": "q_comparison_02_b",
+    "categories": [
+      "comparison",
+      "relationships"
+    ],
+    "author": "マルクス・アウレリウス",
+    "content": "隣人の庭の緑は、遠くから濃く見える。",
+    "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
+    "created_at": 1776998522243
+  },
+  {
+    "id": "q_comparison_03_a",
+    "categories": [
+      "comparison",
+      "self_confidence"
+    ],
     "author": "エピクテトス",
     "content": "自由とは、欲するものを欲さないことだ。",
     "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
-    "created_at": 1776996662267
+    "created_at": 1776998522244
   },
   {
-    "id": "q_comparison_04",
-    "category": "comparison",
+    "id": "q_comparison_03_b",
+    "categories": [
+      "comparison",
+      "relationships"
+    ],
+    "author": "エピクテトス",
+    "content": "自由とは、欲するものを欲さないことだ。",
+    "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
+    "created_at": 1776998522245
+  },
+  {
+    "id": "q_comparison_04_a",
+    "categories": [
+      "comparison",
+      "self_confidence"
+    ],
     "author": "ラルフ・ワルド・エマソン",
     "content": "あなた自身の道を歩め。",
     "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
-    "created_at": 1776996662268
+    "created_at": 1776998522246
   },
   {
-    "id": "q_comparison_05",
-    "category": "comparison",
+    "id": "q_comparison_04_b",
+    "categories": [
+      "comparison",
+      "relationships"
+    ],
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "あなた自身の道を歩め。",
+    "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
+    "created_at": 1776998522247
+  },
+  {
+    "id": "q_comparison_05_a",
+    "categories": [
+      "comparison",
+      "self_confidence"
+    ],
     "author": "孔子",
     "content": "君子は周せず、小人は比而不周。",
     "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
-    "created_at": 1776996662269
+    "created_at": 1776998522248
   },
   {
-    "id": "q_comparison_06",
-    "category": "comparison",
+    "id": "q_comparison_05_b",
+    "categories": [
+      "comparison",
+      "relationships"
+    ],
+    "author": "孔子",
+    "content": "君子は周せず、小人は比而不周。",
+    "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
+    "created_at": 1776998522249
+  },
+  {
+    "id": "q_comparison_06_a",
+    "categories": [
+      "comparison",
+      "self_confidence"
+    ],
     "author": "ブッダ（伝承）",
     "content": "比較は苦しみの母。",
     "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
-    "created_at": 1776996662270
+    "created_at": 1776998522250
   },
   {
-    "id": "q_comparison_07",
-    "category": "comparison",
+    "id": "q_comparison_06_b",
+    "categories": [
+      "comparison",
+      "relationships"
+    ],
+    "author": "ブッダ（伝承）",
+    "content": "比較は苦しみの母。",
+    "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
+    "created_at": 1776998522251
+  },
+  {
+    "id": "q_comparison_07_a",
+    "categories": [
+      "comparison",
+      "self_confidence"
+    ],
     "author": "ヘンリー・フォード",
     "content": "競争相手を見るな。顧客を見よ。",
     "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
-    "created_at": 1776996662271
+    "created_at": 1776998522252
   },
   {
-    "id": "q_comparison_08",
-    "category": "comparison",
+    "id": "q_comparison_07_b",
+    "categories": [
+      "comparison",
+      "relationships"
+    ],
+    "author": "ヘンリー・フォード",
+    "content": "競争相手を見るな。顧客を見よ。",
+    "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
+    "created_at": 1776998522253
+  },
+  {
+    "id": "q_comparison_08_a",
+    "categories": [
+      "comparison",
+      "self_confidence"
+    ],
     "author": "マヤ・アンジェロウ",
     "content": "あなたはすでに十分だ。",
     "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
-    "created_at": 1776996662272
+    "created_at": 1776998522254
   },
   {
-    "id": "q_comparison_09",
-    "category": "comparison",
+    "id": "q_comparison_08_b",
+    "categories": [
+      "comparison",
+      "relationships"
+    ],
+    "author": "マヤ・アンジェロウ",
+    "content": "あなたはすでに十分だ。",
+    "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
+    "created_at": 1776998522255
+  },
+  {
+    "id": "q_comparison_09_a",
+    "categories": [
+      "comparison",
+      "self_confidence"
+    ],
     "author": "ウィリアム・コングリーブ",
     "content": "嫉妬は怪物だ。",
     "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
-    "created_at": 1776996662273
+    "created_at": 1776998522256
   },
   {
-    "id": "q_comparison_10",
-    "category": "comparison",
+    "id": "q_comparison_09_b",
+    "categories": [
+      "comparison",
+      "relationships"
+    ],
+    "author": "ウィリアム・コングリーブ",
+    "content": "嫉妬は怪物だ。",
+    "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
+    "created_at": 1776998522257
+  },
+  {
+    "id": "q_comparison_10_a",
+    "categories": [
+      "comparison",
+      "self_confidence"
+    ],
     "author": "フリードリヒ・ニーチェ",
     "content": "深淵を覗く時、深淵もまたこちらを覗いているのだ。",
     "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
-    "created_at": 1776996662274
+    "created_at": 1776998522258
   },
   {
-    "id": "q_motivation_01",
-    "category": "motivation",
+    "id": "q_comparison_10_b",
+    "categories": [
+      "comparison",
+      "relationships"
+    ],
+    "author": "フリードリヒ・ニーチェ",
+    "content": "深淵を覗く時、深淵もまたこちらを覗いているのだ。",
+    "explanation": "人と比べて苦しくなるとき、この言葉は他人軸から自分軸へ優しく引き戻してくれます。自分の歩幅を認めることで、焦りが希望に変わっていきます。",
+    "created_at": 1776998522259
+  },
+  {
+    "id": "q_motivation_01_a",
+    "categories": [
+      "motivation",
+      "study_work"
+    ],
     "author": "ウォルト・ディズニー",
     "content": "始めるために必要なのは、魔法ではない。決断だ。",
     "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
-    "created_at": 1776996662275
+    "created_at": 1776998522260
   },
   {
-    "id": "q_motivation_02",
-    "category": "motivation",
+    "id": "q_motivation_01_b",
+    "categories": [
+      "motivation",
+      "self_confidence"
+    ],
+    "author": "ウォルト・ディズニー",
+    "content": "始めるために必要なのは、魔法ではない。決断だ。",
+    "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
+    "created_at": 1776998522261
+  },
+  {
+    "id": "q_motivation_02_a",
+    "categories": [
+      "motivation",
+      "study_work"
+    ],
     "author": "マーティン・ルーサー・キング・ジュニア",
     "content": "飛べなくても走れ。走れなくても歩け。",
     "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
-    "created_at": 1776996662276
+    "created_at": 1776998522262
   },
   {
-    "id": "q_motivation_03",
-    "category": "motivation",
+    "id": "q_motivation_02_b",
+    "categories": [
+      "motivation",
+      "self_confidence"
+    ],
+    "author": "マーティン・ルーサー・キング・ジュニア",
+    "content": "飛べなくても走れ。走れなくても歩け。",
+    "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
+    "created_at": 1776998522263
+  },
+  {
+    "id": "q_motivation_03_a",
+    "categories": [
+      "motivation",
+      "study_work"
+    ],
     "author": "孔子",
     "content": "知る者は好む者に如かず、好む者は楽む者に如かず。",
     "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
-    "created_at": 1776996662277
+    "created_at": 1776998522264
   },
   {
-    "id": "q_motivation_04",
-    "category": "motivation",
+    "id": "q_motivation_03_b",
+    "categories": [
+      "motivation",
+      "self_confidence"
+    ],
+    "author": "孔子",
+    "content": "知る者は好む者に如かず、好む者は楽む者に如かず。",
+    "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
+    "created_at": 1776998522265
+  },
+  {
+    "id": "q_motivation_04_a",
+    "categories": [
+      "motivation",
+      "study_work"
+    ],
     "author": "ヴィンス・ロンバルディ",
     "content": "勝つことはすべてではない。勝つことが唯一だ。",
     "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
-    "created_at": 1776996662278
+    "created_at": 1776998522266
   },
   {
-    "id": "q_motivation_05",
-    "category": "motivation",
+    "id": "q_motivation_04_b",
+    "categories": [
+      "motivation",
+      "self_confidence"
+    ],
+    "author": "ヴィンス・ロンバルディ",
+    "content": "勝つことはすべてではない。勝つことが唯一だ。",
+    "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
+    "created_at": 1776998522267
+  },
+  {
+    "id": "q_motivation_05_a",
+    "categories": [
+      "motivation",
+      "study_work"
+    ],
     "author": "ヘレン・ケラー",
     "content": "意志は、目的のために世界を動かす。",
     "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
-    "created_at": 1776996662279
+    "created_at": 1776998522268
   },
   {
-    "id": "q_motivation_06",
-    "category": "motivation",
+    "id": "q_motivation_05_b",
+    "categories": [
+      "motivation",
+      "self_confidence"
+    ],
+    "author": "ヘレン・ケラー",
+    "content": "意志は、目的のために世界を動かす。",
+    "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
+    "created_at": 1776998522269
+  },
+  {
+    "id": "q_motivation_06_a",
+    "categories": [
+      "motivation",
+      "study_work"
+    ],
     "author": "ナポレオン・ヒル",
     "content": "望みを明確にせよ。そうすれば道は開ける。",
     "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
-    "created_at": 1776996662280
+    "created_at": 1776998522270
   },
   {
-    "id": "q_motivation_07",
-    "category": "motivation",
+    "id": "q_motivation_06_b",
+    "categories": [
+      "motivation",
+      "self_confidence"
+    ],
+    "author": "ナポレオン・ヒル",
+    "content": "望みを明確にせよ。そうすれば道は開ける。",
+    "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
+    "created_at": 1776998522271
+  },
+  {
+    "id": "q_motivation_07_a",
+    "categories": [
+      "motivation",
+      "study_work"
+    ],
     "author": "ジム・ローン",
     "content": "動機は始まりを作り、習慣は未来を作る。",
     "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
-    "created_at": 1776996662281
+    "created_at": 1776998522272
   },
   {
-    "id": "q_motivation_08",
-    "category": "motivation",
+    "id": "q_motivation_07_b",
+    "categories": [
+      "motivation",
+      "self_confidence"
+    ],
+    "author": "ジム・ローン",
+    "content": "動機は始まりを作り、習慣は未来を作る。",
+    "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
+    "created_at": 1776998522273
+  },
+  {
+    "id": "q_motivation_08_a",
+    "categories": [
+      "motivation",
+      "study_work"
+    ],
     "author": "アリストテレス",
     "content": "我々は繰り返し行うことで卓越する。",
     "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
-    "created_at": 1776996662282
+    "created_at": 1776998522274
   },
   {
-    "id": "q_motivation_09",
-    "category": "motivation",
+    "id": "q_motivation_08_b",
+    "categories": [
+      "motivation",
+      "self_confidence"
+    ],
+    "author": "アリストテレス",
+    "content": "我々は繰り返し行うことで卓越する。",
+    "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
+    "created_at": 1776998522275
+  },
+  {
+    "id": "q_motivation_09_a",
+    "categories": [
+      "motivation",
+      "study_work"
+    ],
     "author": "セネカ",
     "content": "小さな日々の努力が、大きな物語になる。",
     "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
-    "created_at": 1776996662283
+    "created_at": 1776998522276
   },
   {
-    "id": "q_motivation_10",
-    "category": "motivation",
+    "id": "q_motivation_09_b",
+    "categories": [
+      "motivation",
+      "self_confidence"
+    ],
+    "author": "セネカ",
+    "content": "小さな日々の努力が、大きな物語になる。",
+    "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
+    "created_at": 1776998522277
+  },
+  {
+    "id": "q_motivation_10_a",
+    "categories": [
+      "motivation",
+      "study_work"
+    ],
     "author": "ヘンリー・フォード",
     "content": "失敗は、やり直すチャンスに過ぎない。",
     "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
-    "created_at": 1776996662284
+    "created_at": 1776998522278
   },
   {
-    "id": "q_indecision_01",
-    "category": "indecision",
+    "id": "q_motivation_10_b",
+    "categories": [
+      "motivation",
+      "self_confidence"
+    ],
+    "author": "ヘンリー・フォード",
+    "content": "失敗は、やり直すチャンスに過ぎない。",
+    "explanation": "やる気が出ない日、この言葉は気分を待たずに小さく動く勇気をくれます。最初の一歩が次の一歩を呼ぶ感覚を、もう一度思い出せます。",
+    "created_at": 1776998522279
+  },
+  {
+    "id": "q_indecision_01_a",
+    "categories": [
+      "indecision",
+      "future"
+    ],
     "author": "エピクテトス",
     "content": "自由とは、自分の意志を選ぶ力だ。",
     "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
-    "created_at": 1776996662285
+    "created_at": 1776998522280
   },
   {
-    "id": "q_indecision_02",
-    "category": "indecision",
+    "id": "q_indecision_01_b",
+    "categories": [
+      "indecision",
+      "motivation"
+    ],
+    "author": "エピクテトス",
+    "content": "自由とは、自分の意志を選ぶ力だ。",
+    "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
+    "created_at": 1776998522281
+  },
+  {
+    "id": "q_indecision_02_a",
+    "categories": [
+      "indecision",
+      "future"
+    ],
     "author": "ブレーズ・パスカル",
     "content": "心には理由がない。それでもある。",
     "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
-    "created_at": 1776996662286
+    "created_at": 1776998522282
   },
   {
-    "id": "q_indecision_03",
-    "category": "indecision",
+    "id": "q_indecision_02_b",
+    "categories": [
+      "indecision",
+      "motivation"
+    ],
+    "author": "ブレーズ・パスカル",
+    "content": "心には理由がない。それでもある。",
+    "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
+    "created_at": 1776998522283
+  },
+  {
+    "id": "q_indecision_03_a",
+    "categories": [
+      "indecision",
+      "future"
+    ],
     "author": "ラルフ・ワルド・エマソン",
     "content": "一歩踏み出せば、道は現れる。",
     "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
-    "created_at": 1776996662287
+    "created_at": 1776998522284
   },
   {
-    "id": "q_indecision_04",
-    "category": "indecision",
+    "id": "q_indecision_03_b",
+    "categories": [
+      "indecision",
+      "motivation"
+    ],
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "一歩踏み出せば、道は現れる。",
+    "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
+    "created_at": 1776998522285
+  },
+  {
+    "id": "q_indecision_04_a",
+    "categories": [
+      "indecision",
+      "future"
+    ],
     "author": "孔子",
     "content": "思い切って行え。躊躇するな。",
     "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
-    "created_at": 1776996662288
+    "created_at": 1776998522286
   },
   {
-    "id": "q_indecision_05",
-    "category": "indecision",
+    "id": "q_indecision_04_b",
+    "categories": [
+      "indecision",
+      "motivation"
+    ],
+    "author": "孔子",
+    "content": "思い切って行え。躊躇するな。",
+    "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
+    "created_at": 1776998522287
+  },
+  {
+    "id": "q_indecision_05_a",
+    "categories": [
+      "indecision",
+      "future"
+    ],
     "author": "マルクス・アウレリウス",
     "content": "迷いは、情報不足のサインだ。",
     "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
-    "created_at": 1776996662289
+    "created_at": 1776998522288
   },
   {
-    "id": "q_indecision_06",
-    "category": "indecision",
+    "id": "q_indecision_05_b",
+    "categories": [
+      "indecision",
+      "motivation"
+    ],
+    "author": "マルクス・アウレリウス",
+    "content": "迷いは、情報不足のサインだ。",
+    "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
+    "created_at": 1776998522289
+  },
+  {
+    "id": "q_indecision_06_a",
+    "categories": [
+      "indecision",
+      "future"
+    ],
     "author": "セネカ",
     "content": "決断は、勇気の別名だ。",
     "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
-    "created_at": 1776996662290
+    "created_at": 1776998522290
   },
   {
-    "id": "q_indecision_07",
-    "category": "indecision",
+    "id": "q_indecision_06_b",
+    "categories": [
+      "indecision",
+      "motivation"
+    ],
+    "author": "セネカ",
+    "content": "決断は、勇気の別名だ。",
+    "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
+    "created_at": 1776998522291
+  },
+  {
+    "id": "q_indecision_07_a",
+    "categories": [
+      "indecision",
+      "future"
+    ],
     "author": "アリストテレス",
     "content": "徳は、中庸の習慣である。",
     "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
-    "created_at": 1776996662291
+    "created_at": 1776998522292
   },
   {
-    "id": "q_indecision_08",
-    "category": "indecision",
+    "id": "q_indecision_07_b",
+    "categories": [
+      "indecision",
+      "motivation"
+    ],
+    "author": "アリストテレス",
+    "content": "徳は、中庸の習慣である。",
+    "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
+    "created_at": 1776998522293
+  },
+  {
+    "id": "q_indecision_08_a",
+    "categories": [
+      "indecision",
+      "future"
+    ],
     "author": "老子",
     "content": "千里の行も足下に始まる。",
     "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
-    "created_at": 1776996662292
+    "created_at": 1776998522294
   },
   {
-    "id": "q_indecision_09",
-    "category": "indecision",
+    "id": "q_indecision_08_b",
+    "categories": [
+      "indecision",
+      "motivation"
+    ],
+    "author": "老子",
+    "content": "千里の行も足下に始まる。",
+    "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
+    "created_at": 1776998522295
+  },
+  {
+    "id": "q_indecision_09_a",
+    "categories": [
+      "indecision",
+      "future"
+    ],
     "author": "ウィリアム・ジェームズ",
     "content": "行動が信念を作る。",
     "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
-    "created_at": 1776996662293
+    "created_at": 1776998522296
   },
   {
-    "id": "q_indecision_10",
-    "category": "indecision",
+    "id": "q_indecision_09_b",
+    "categories": [
+      "indecision",
+      "motivation"
+    ],
+    "author": "ウィリアム・ジェームズ",
+    "content": "行動が信念を作る。",
+    "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
+    "created_at": 1776998522297
+  },
+  {
+    "id": "q_indecision_10_a",
+    "categories": [
+      "indecision",
+      "future"
+    ],
     "author": "スーザン・ソンタグ",
     "content": "選択は、自己の輪郭を決める。",
     "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
-    "created_at": 1776996662294
+    "created_at": 1776998522298
+  },
+  {
+    "id": "q_indecision_10_b",
+    "categories": [
+      "indecision",
+      "motivation"
+    ],
+    "author": "スーザン・ソンタグ",
+    "content": "選択は、自己の輪郭を決める。",
+    "explanation": "決めきれず迷うとき、この言葉は『完璧な正解』より『納得できる選択』へ視点を変えてくれます。小さく試す発想が、前に進む安心を作ってくれます。",
+    "created_at": 1776998522299
   }
 ]

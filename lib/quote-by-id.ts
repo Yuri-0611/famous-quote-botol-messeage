@@ -9,8 +9,8 @@ export type PublicQuote = {
   text: string;
   author: string;
   explanation: string;
-  genre: WorryGenre;
-  genreLabel: string;
+  genres: WorryGenre[];
+  genreLabels: string[];
 };
 
 export async function fetchQuoteById(id: string): Promise<PublicQuote | null> {
@@ -21,15 +21,18 @@ export async function fetchQuoteById(id: string): Promise<PublicQuote | null> {
     const rows = await db.select().from(quotes).where(eq(quotes.id, id)).limit(1);
     const row = rows[0];
     if (!row) return null;
-    const g = row.category as WorryGenre;
-    if (!(g in GENRE_LABELS)) return null;
+    const gs = row.category
+      .split(",")
+      .map((x) => x.trim())
+      .filter((x): x is WorryGenre => x in GENRE_LABELS);
+    if (gs.length === 0) return null;
     return {
       id: row.id,
       text: row.content,
       author: row.author,
       explanation: row.explanation,
-      genre: g,
-      genreLabel: GENRE_LABELS[g],
+      genres: gs,
+      genreLabels: gs.map((g) => GENRE_LABELS[g]),
     };
   } catch (e) {
     console.error(e);

@@ -1,5 +1,5 @@
 /**
- * quotes テーブルへ data/seed-quotes.json（150件）を投入します。
+ * quotes テーブルへ data/seed-quotes.json（300件）を投入します。
  * 既存の quotes は全削除してから挿入します（冪等なフルシード）。
  *
  * 実行例:
@@ -13,7 +13,7 @@ import { drizzle } from "drizzle-orm/libsql";
 
 type Row = {
   id: string;
-  category: string;
+  categories: string[];
   author: string;
   content: string;
   explanation: string;
@@ -33,8 +33,8 @@ async function main() {
 
   const path = join(process.cwd(), "data", "seed-quotes.json");
   const raw = JSON.parse(readFileSync(path, "utf8")) as Row[];
-  if (!Array.isArray(raw) || raw.length !== 150) {
-    throw new Error(`seed-quotes.json は150件である必要があります（現在 ${raw?.length ?? 0} 件）。`);
+  if (!Array.isArray(raw) || raw.length !== 300) {
+    throw new Error(`seed-quotes.json は300件である必要があります（現在 ${raw?.length ?? 0} 件）。`);
   }
 
   await db.delete(schema.quotes);
@@ -44,7 +44,7 @@ async function main() {
       content: row.content,
       author: row.author,
       explanation: row.explanation,
-      category: row.category,
+      category: row.categories.join(","),
       createdAt: typeof row.created_at === "number" ? row.created_at : Date.now(),
     });
   }

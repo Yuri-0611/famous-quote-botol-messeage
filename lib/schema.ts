@@ -7,6 +7,8 @@ export const worries = sqliteTable(
     id: text("id").primaryKey(),
     content: text("content").notNull(),
     category: text("category").notNull(),
+    /** 名言マッチ結果: and / or（未取得は NULL） */
+    matchType: text("match_type"),
     createdAt: integer("created_at", { mode: "number" }).notNull(),
   },
   (t) => ({
@@ -23,6 +25,7 @@ export const quotes = sqliteTable(
     content: text("content").notNull(),
     author: text("author").notNull(),
     explanation: text("explanation").notNull(),
+    // カンマ区切りで複数カテゴリを保持（例: "romance,self_confidence"）
     category: text("category").notNull(),
     createdAt: integer("created_at", { mode: "number" }).notNull(),
   },
