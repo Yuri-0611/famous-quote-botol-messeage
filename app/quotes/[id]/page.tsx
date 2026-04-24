@@ -18,31 +18,33 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       robots: { index: false, follow: false },
     };
   }
-  const ogImage = `${site}/api/og?quote=${encodeURIComponent(q.text)}`;
-  const titleShort = q.text.length > 32 ? `${q.text.slice(0, 32)}…` : q.text;
+  const quoteUrl = `${site}/quotes/${id}`;
+  const ogImage = `${site}/quotes/${id}/opengraph-image`;
+  const title = `『${q.text}』 - 悩み別・名言ボトル`;
+  const description = `私の悩みへのアンサー：『${q.text}』 - ${q.author}`;
   return {
     metadataBase: new URL(site),
-    title: `「${titleShort}」| 悩み別・名言ボトル`,
-    description: `${q.author} — ${q.text.slice(0, 140)}`,
+    title,
+    description,
     openGraph: {
-      title: "悩み別・名言ボトル",
-      description: q.text,
+      title,
+      description,
       type: "article",
-      url: `${site}/quotes/${id}`,
+      url: quoteUrl,
       images: [
         {
           url: ogImage,
           width: 1200,
           height: 630,
-          alt: q.text,
+          alt: `『${q.text}』 - ${q.author}`,
           type: "image/png",
         },
       ],
     },
     twitter: {
       card: "summary_large_image",
-      title: "悩み別・名言ボトル",
-      description: q.text,
+      title,
+      description,
       images: [ogImage],
     },
   };
