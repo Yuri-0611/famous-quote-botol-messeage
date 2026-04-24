@@ -9,11 +9,14 @@
     "preview:cf": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
     "deploy:cf": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "seed-quotes": "tsx --env-file=.env.local seed-quotes.ts",
+    "seed-quotes:materialize": "node scripts/materialize-seed-quotes.mjs"
   },
   "dependencies": {
     "@libsql/client": "^0.17.2",
     "@vercel/og": "^0.11.1",
+    "drizzle-orm": "^0.45.2",
     "framer-motion": "^12.38.0",
     "next": "16.2.4",
     "react": "19.2.4",
@@ -28,6 +31,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.4",
     "tailwindcss": "^4",
+    "tsx": "^4.21.0",
     "typescript": "^5",
     "wrangler": "^4.83.0"
   }

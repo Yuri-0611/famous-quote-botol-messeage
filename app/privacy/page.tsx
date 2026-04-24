@@ -29,9 +29,9 @@ export default function PrivacyPage() {
       <section className="mt-8 space-y-4">
         <h2 className="text-base font-semibold text-white">2. 取得する情報の例</h2>
         <ul className="list-inside list-disc space-y-2 text-slate-400">
-          <li>ブラウザに保存されるセッション用 Cookie（本サービスの利用識別）</li>
-          <li>任意で登録するメールアドレス（登録機能を利用する場合）</li>
-          <li>投稿された名言テキストおよび選択ジャンル（データベースに保存）</li>
+          <li>運営倉庫 `/warehouse` 用の認証 Cookie（利用する場合のみ）</li>
+          <li>ユーザーが入力した悩みのテキスト、選択ジャンル（`worries` テーブルに保存）</li>
+          <li>表示する名言データ（`quotes` テーブル。運営が投入したマスタ）</li>
           <li>アクセスログ等（ホスティング事業者の仕様に準じます）</li>
         </ul>
       </section>
@@ -44,8 +44,7 @@ export default function PrivacyPage() {
       <section className="mt-8 space-y-4">
         <h2 className="text-base font-semibold text-white">4. 第三者提供・委託</h2>
         <p>
-          データベース（例: Turso）、ホスティング（例: Cloudflare）、AI
-          機能（例: OpenAI）など、サービス提供に必要な範囲で各事業者のインフラを利用します。各事業者のプライバシーポリシーもあわせてご確認ください。
+          データベース（例: Turso）、ホスティング（例: Vercel / Cloudflare）など、サービス提供に必要な範囲で各事業者のインフラを利用します。各事業者のプライバシーポリシーもあわせてご確認ください。
         </p>
       </section>
 

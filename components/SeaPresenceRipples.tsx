@@ -23,9 +23,12 @@ export function SeaPresenceRipples() {
 
   useEffect(() => {
     if (reduce) return;
-    spawn();
+    const t0 = window.setTimeout(() => spawn(), 0);
     const id = window.setInterval(() => spawn(), 3200 + Math.floor(Math.random() * 1800));
-    return () => window.clearInterval(id);
+    return () => {
+      window.clearTimeout(t0);
+      window.clearInterval(id);
+    };
   }, [reduce, spawn]);
 
   if (reduce) return null;

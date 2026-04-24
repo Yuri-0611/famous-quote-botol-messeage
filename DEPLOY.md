@@ -19,6 +19,7 @@
    - `TURSO_DATABASE_URL`, `TURSO_AUTH_TOKEN`
    - `OPENAI_API_KEY`（検閲・海の名言を使う場合）
    - `WAREHOUSE_PASSWORD`（運営用 `/warehouse` ログイン。長いランダム文字列推奨。未設定だと倉庫は使えません）
+   - 初回デプロイ後、ローカルまたは CI で `npm run seed-quotes`（`.env.local` 相当の Turso 変数が必要）を実行し、`quotes` テーブルに 150 件の名言を投入してください。
 4. ルートで `npm run build:cf` が成功することを確認。
 5. `npm run deploy:cf` でデプロイ（または CI で同コマンド）。
 

@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "q_study_work_01",
+    "category": "study_work",
+    "author": "ソクラテス",
+    "content": "私にとって唯一確かな知は、自分が無知であるという知だけだ。",
+    "created_at": 1776994822158
+  },
+  {
+    "id": "q_study_work_02",
+    "category": "study_work",
+    "author": "プラトン",
+    "content": "学びは、魂そのものに羽を生やす。",
+    "created_at": 1776994822159
+  },
+  {
+    "id": "q_study_work_03",
+    "category": "study_work",
+    "author": "アリストテレス",
+    "content": "我々は、なすがままにすることで習得する。",
+    "created_at": 1776994822160
+  },
+  {
+    "id": "q_study_work_04",
+    "category": "study_work",
+    "author": "フランシス・ベーコン",
+    "content": "知は力なり。",
+    "created_at": 1776994822161
+  },
+  {
+    "id": "q_study_work_05",
+    "category": "study_work",
+    "author": "アルベルト・アインシュタイン",
+    "content": "問題をそのままの思考で解こうとしたって、だいたい失敗する。",
+    "created_at": 1776994822162
+  },
+  {
+    "id": "q_study_work_06",
+    "category": "study_work",
+    "author": "孔子",
+    "content": "学びて時に之を習う、亦説ばしからずや。",
+    "created_at": 1776994822163
+  },
+  {
+    "id": "q_study_work_07",
+    "category": "study_work",
+    "author": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+    "content": "何事も成立する前は不可能に見える。",
+    "created_at": 1776994822164
+  },
+  {
+    "id": "q_study_work_08",
+    "category": "study_work",
+    "author": "マルクス・トゥリウス・キケロ",
+    "content": "学問は翼なき飛行だ。",
+    "created_at": 1776994822165
+  },
+  {
+    "id": "q_study_work_09",
+    "category": "study_work",
+    "author": "セネカ",
+    "content": "道が長いなら、一歩ずつ進め。",
+    "created_at": 1776994822166
+  },
+  {
+    "id": "q_study_work_10",
+    "category": "study_work",
+    "author": "ルネ・デカルト",
+    "content": "我思う、ゆえに我あり。",
+    "created_at": 1776994822167
+  },
+  {
+    "id": "q_relationships_01",
+    "category": "relationships",
+    "author": "孔子",
+    "content": "己の欲せざる所は人に施すなかれ。",
+    "created_at": 1776994822168
+  },
+  {
+    "id": "q_relationships_02",
+    "category": "relationships",
+    "author": "マザー・テレサ",
+    "content": "今日という一日が、あなたの人生でいちばん大切な日。",
+    "created_at": 1776994822169
+  },
+  {
+    "id": "q_relationships_03",
+    "category": "relationships",
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "友は鏡のようなものだ。",
+    "created_at": 1776994822170
+  },
+  {
+    "id": "q_relationships_04",
+    "category": "relationships",
+    "author": "ヘンリー・フォード",
+    "content": "一緒にいる人を大切にせよ。それが幸福の近道だ。",
+    "created_at": 1776994822171
+  },
+  {
+    "id": "q_relationships_05",
+    "category": "relationships",
+    "author": "マルクス・アウレリウス",
+    "content": "怒りは小さな狂いだ。",
+    "created_at": 1776994822172
+  },
+  {
+    "id": "q_relationships_06",
+    "category": "relationships",
+    "author": "ウィリアム・シェイクスピア",
+    "content": "親切は借金ではない。利息がつく。",
+    "created_at": 1776994822173
+  },
+  {
+    "id": "q_relationships_07",
+    "category": "relationships",
+    "author": "プラトン",
+    "content": "語ることより、聴くことのほうが難しい。",
+    "created_at": 1776994822174
+  },
+  {
+    "id": "q_relationships_08",
+    "category": "relationships",
+    "author": "アリストテレス",
+    "content": "友は、ひとりの魂がふたつの躯体に宿るようなもの。",
+    "created_at": 1776994822175
+  },
+  {
+    "id": "q_relationships_09",
+    "category": "relationships",
+    "author": "老子",
+    "content": "善い言葉は市場に勝ち、善い功は人に従う。",
+    "created_at": 1776994822176
+  },
+  {
+    "id": "q_relationships_10",
+    "category": "relationships",
+    "author": "ブレーズ・パスカル",
+    "content": "心の論理は、論理の論理より厳しい。",
+    "created_at": 1776994822177
+  },
+  {
+    "id": "q_future_01",
+    "category": "future",
+    "author": "アブラハム・リンカーン",
+    "content": "未来の最善の予測は、未来を創ることだ。",
+    "created_at": 1776994822178
+  },
+  {
+    "id": "q_future_02",
+    "category": "future",
+    "author": "ピーター・ドラッカー",
+    "content": "最善の方法で未来を予測することは、未来を創ることだ。",
+    "created_at": 1776994822179
+  },
+  {
+    "id": "q_future_03",
+    "category": "future",
+    "author": "ヘレン・ケラー",
+    "content": "希望を失わない限り、人は敗北しない。",
+    "created_at": 1776994822180
+  },
+  {
+    "id": "q_future_04",
+    "category": "future",
+    "author": "ウィンストン・チャーチル",
+    "content": "成功とは、失敗から失敗へと情熱を失わずに進むことだ。",
+    "created_at": 1776994822181
+  },
+  {
+    "id": "q_future_05",
+    "category": "future",
+    "author": "アール・ナイチンゲール",
+    "content": "未来は今日の積み重ねでできている。",
+    "created_at": 1776994822182
+  },
+  {
+    "id": "q_future_06",
+    "category": "future",
+    "author": "マルクス・アウレリウス",
+    "content": "妨げられることはない。内なる衝動だけが妨げる。",
+    "created_at": 1776994822183
+  },
+  {
+    "id": "q_future_07",
+    "category": "future",
+    "author": "セネカ",
+    "content": "運命は導く者であり、引きずる者でもある。",
+    "created_at": 1776994822184
+  },
+  {
+    "id": "q_future_08",
+    "category": "future",
+    "author": "ヴィクトル・ユーゴー",
+    "content": "未来には、人間の働きという名前の魔法がある。",
+    "created_at": 1776994822185
+  },
+  {
+    "id": "q_future_09",
+    "category": "future",
+    "author": "アンソニー・ロビンズ",
+    "content": "焦点を合わせた場所が、現実になる。",
+    "created_at": 1776994822186
+  },
+  {
+    "id": "q_future_10",
+    "category": "future",
+    "author": "スティーブ・ジョブズ",
+    "content": "点はつながる。振り返るときだけだ。",
+    "created_at": 1776994822187
+  },
+  {
+    "id": "q_self_confidence_01",
+    "category": "self_confidence",
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "自分自身を信じよ。そうすれば生き方がわかる。",
+    "created_at": 1776994822188
+  },
+  {
+    "id": "q_self_confidence_02",
+    "category": "self_confidence",
+    "author": "ヘンリー・フォード",
+    "content": "信じるか信じないか、どちらでもあなたは正しい。",
+    "created_at": 1776994822189
+  },
+  {
+    "id": "q_self_confidence_03",
+    "category": "self_confidence",
+    "author": "マリアン・ウィリアムソン",
+    "content": "私たちの内なる光を恐れるのではなく、暗闇を恐れよう。",
+    "created_at": 1776994822190
+  },
+  {
+    "id": "q_self_confidence_04",
+    "category": "self_confidence",
+    "author": "エレノア・ルーズベルト",
+    "content": "誰もあなたに劣等感を抱かせる権利はない。",
+    "created_at": 1776994822191
+  },
+  {
+    "id": "q_self_confidence_05",
+    "category": "self_confidence",
+    "author": "マルクス・アウレリウス",
+    "content": "あなたの力は、あなたの考えを支配する力にある。",
+    "created_at": 1776994822192
+  },
+  {
+    "id": "q_self_confidence_06",
+    "category": "self_confidence",
+    "author": "ヴィヴィアン・グリーン",
+    "content": "人生は一度きり。だが、正しければ一度で足りる。",
+    "created_at": 1776994822193
+  },
+  {
+    "id": "q_self_confidence_07",
+    "category": "self_confidence",
+    "author": "マーヴァ・コリンズ",
+    "content": "成功は、失敗の積み重ねの別名だ。",
+    "created_at": 1776994822194
+  },
+  {
+    "id": "q_self_confidence_08",
+    "category": "self_confidence",
+    "author": "ブッダ（伝承）",
+    "content": "自分自身の灯火となれ。自分自身のよりどころとなれ。",
+    "created_at": 1776994822195
+  },
+  {
+    "id": "q_self_confidence_09",
+    "category": "self_confidence",
+    "author": "ヘンリー・デイヴィッド・ソロー",
+    "content": "自信まみれに歩け。そして人々の方へ向かうな。",
+    "created_at": 1776994822196
+  },
+  {
+    "id": "q_self_confidence_10",
+    "category": "self_confidence",
+    "author": "マヤ・アンジェロウ",
+    "content": "まだ立ち上がったことがないなら、それが恥だ。",
+    "created_at": 1776994822197
+  },
+  {
+    "id": "q_healing_01",
+    "category": "healing",
+    "author": "マザー・テレサ",
+    "content": "平和は微笑みから始まる。",
+    "created_at": 1776994822198
+  },
+  {
+    "id": "q_healing_02",
+    "category": "healing",
+    "author": "レオ・ブスカーリア",
+    "content": "人生は、愛する人の腕のなかで過ごす日々の積み重ねだ。",
+    "created_at": 1776994822199
+  },
+  {
+    "id": "q_healing_03",
+    "category": "healing",
+    "author": "ラビンドラナート・タゴール",
+    "content": "雲が空を覆っても、星は消えない。",
+    "created_at": 1776994822200
+  },
+  {
+    "id": "q_healing_04",
+    "category": "healing",
+    "author": "ヘレン・ケラー",
+    "content": "世界は美しい。だが、見ようとする勇気がいる。",
+    "created_at": 1776994822201
+  },
+  {
+    "id": "q_healing_05",
+    "category": "healing",
+    "author": "老子",
+    "content": "千里の道も一歩から。",
+    "created_at": 1776994822202
+  },
+  {
+    "id": "q_healing_06",
+    "category": "healing",
+    "author": "マルクス・アウレリウス",
+    "content": "痛みは意見に過ぎない。",
+    "created_at": 1776994822203
+  },
+  {
+    "id": "q_healing_07",
+    "category": "healing",
+    "author": "ブレーズ・パスカル",
+    "content": "心の静けさこそ、最大の勝利だ。",
+    "created_at": 1776994822204
+  },
+  {
+    "id": "q_healing_08",
+    "category": "healing",
+    "author": "メイ・サトン",
+    "content": "癒しは、許しから始まる。",
+    "created_at": 1776994822205
+  },
+  {
+    "id": "q_healing_09",
+    "category": "healing",
+    "author": "フレデリック・ルキス",
+    "content": "休息は魂の呼吸だ。",
+    "created_at": 1776994822206
+  },
+  {
+    "id": "q_healing_10",
+    "category": "healing",
+    "author": "ルミー（伝承）",
+    "content": "傷は、光が入る場所だ。",
+    "created_at": 1776994822207
+  },
+  {
+    "id": "q_romance_01",
+    "category": "romance",
+    "author": "ヴィクトル・ユーゴー",
+    "content": "人生で最大の喜びは、愛されていると確信するときだ。",
+    "created_at": 1776994822208
+  },
+  {
+    "id": "q_romance_02",
+    "category": "romance",
+    "author": "レオ・トルストイ",
+    "content": "愛はすべてを信じ、すべてを望み、すべてに耐える。",
+    "created_at": 1776994822209
+  },
+  {
+    "id": "q_romance_03",
+    "category": "romance",
+    "author": "パブロ・ネルーダ",
+    "content": "愛は短く、忘れるのは長い。",
+    "created_at": 1776994822210
+  },
+  {
+    "id": "q_romance_04",
+    "category": "romance",
+    "author": "ジェーン・オースティン",
+    "content": "心が揺れるとき、正直であれ。",
+    "created_at": 1776994822211
+  },
+  {
+    "id": "q_romance_05",
+    "category": "romance",
+    "author": "エミリー・ディキンソン",
+    "content": "永遠は今だ。",
+    "created_at": 1776994822212
+  },
+  {
+    "id": "q_romance_06",
+    "category": "romance",
+    "author": "ライン・ホールド・ニルソン",
+    "content": "愛は小さな言葉の大きな意味だ。",
+    "created_at": 1776994822213
+  },
+  {
+    "id": "q_romance_07",
+    "category": "romance",
+    "author": "マルグリット・デュラス",
+    "content": "愛より強いものは、愛の記憶だ。",
+    "created_at": 1776994822214
+  },
+  {
+    "id": "q_romance_08",
+    "category": "romance",
+    "author": "ウィリアム・シェイクスピア",
+    "content": "愛は盲目ではない。むしろ視力を与える。",
+    "created_at": 1776994822215
+  },
+  {
+    "id": "q_romance_09",
+    "category": "romance",
+    "author": "孔子",
+    "content": "仁は遠しからんや。我欲仁ならば斯仁至矣。",
+    "created_at": 1776994822216
+  },
+  {
+    "id": "q_romance_10",
+    "category": "romance",
+    "author": "マルクス・アウレリウス",
+    "content": "美徳だけが真の愛を育てる。",
+    "created_at": 1776994822217
+  },
+  {
+    "id": "q_family_01",
+    "category": "family",
+    "author": "マザー・テレサ",
+    "content": "家庭の平和が世界の平和だ。",
+    "created_at": 1776994822218
+  },
+  {
+    "id": "q_family_02",
+    "category": "family",
+    "author": "レオ・トルストイ",
+    "content": "幸せな家庭はみな似ている。",
+    "created_at": 1776994822219
+  },
+  {
+    "id": "q_family_03",
+    "category": "family",
+    "author": "アブラハム・リンカーン",
+    "content": "八歳までに教えよ。あとは手を離せ。",
+    "created_at": 1776994822220
+  },
+  {
+    "id": "q_family_04",
+    "category": "family",
+    "author": "マヤ・アンジェロウ",
+    "content": "家族は、血よりも行いでできあがる。",
+    "created_at": 1776994822221
+  },
+  {
+    "id": "q_family_05",
+    "category": "family",
+    "author": "アフリカのことわざ",
+    "content": "子を育てるには全村が必要。",
+    "created_at": 1776994822222
+  },
+  {
+    "id": "q_family_06",
+    "category": "family",
+    "author": "孔子",
+    "content": "孝は、仁の本なり。",
+    "created_at": 1776994822223
+  },
+  {
+    "id": "q_family_07",
+    "category": "family",
+    "author": "ヘレン・ケラー",
+    "content": "共に笑い、共に泣いた者こそ家族だ。",
+    "created_at": 1776994822224
+  },
+  {
+    "id": "q_family_08",
+    "category": "family",
+    "author": "ウィンストン・チャーチル",
+    "content": "家は国の砦なり。",
+    "created_at": 1776994822225
+  },
+  {
+    "id": "q_family_09",
+    "category": "family",
+    "author": "バーバラ・ブッシュ",
+    "content": "家は心の避難所だ。",
+    "created_at": 1776994822226
+  },
+  {
+    "id": "q_family_10",
+    "category": "family",
+    "author": "アンソニー・ロビンズ",
+    "content": "愛の言葉は、子の未来の地図になる。",
+    "created_at": 1776994822227
+  },
+  {
+    "id": "q_money_life_01",
+    "category": "money_life",
+    "author": "ベンジャミン・フランクリン",
+    "content": "貯蓄は収入の母だ。",
+    "created_at": 1776994822228
+  },
+  {
+    "id": "q_money_life_02",
+    "category": "money_life",
+    "author": "ウォーレン・バフェット",
+    "content": "価格は支払うもの、価値は得るもの。",
+    "created_at": 1776994822229
+  },
+  {
+    "id": "q_money_life_03",
+    "category": "money_life",
+    "author": "ピーター・ドラッカー",
+    "content": "測定できなければ、改善できない。",
+    "created_at": 1776994822230
+  },
+  {
+    "id": "q_money_life_04",
+    "category": "money_life",
+    "author": "アリストテレス",
+    "content": "富は手段に過ぎず、目的ではない。",
+    "created_at": 1776994822231
+  },
+  {
+    "id": "q_money_life_05",
+    "category": "money_life",
+    "author": "セネカ",
+    "content": "欲は足るを知らぬ。",
+    "created_at": 1776994822232
+  },
+  {
+    "id": "q_money_life_06",
+    "category": "money_life",
+    "author": "孔子",
+    "content": "君子は財を義に従わしむ。",
+    "created_at": 1776994822233
+  },
+  {
+    "id": "q_money_life_07",
+    "category": "money_life",
+    "author": "ヘンリー・フォード",
+    "content": "思考は現実化する。",
+    "created_at": 1776994822234
+  },
+  {
+    "id": "q_money_life_08",
+    "category": "money_life",
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "浪費は貧乏の母だ。",
+    "created_at": 1776994822235
+  },
+  {
+    "id": "q_money_life_09",
+    "category": "money_life",
+    "author": "トーマス・フラー",
+    "content": "今日のペニーが、明日のポンドになる。",
+    "created_at": 1776994822236
+  },
+  {
+    "id": "q_money_life_10",
+    "category": "money_life",
+    "author": "ソフォクレス",
+    "content": "欲深き者は、いつも貧しい。",
+    "created_at": 1776994822237
+  },
+  {
+    "id": "q_health_01",
+    "category": "health",
+    "author": "ヒポクラテス",
+    "content": "食はあなたの薬、薬はあなたの食。",
+    "created_at": 1776994822238
+  },
+  {
+    "id": "q_health_02",
+    "category": "health",
+    "author": "トーマス・ジェファーソン",
+    "content": "歩くことは人間にとって最高の鎮静剤だ。",
+    "created_at": 1776994822239
+  },
+  {
+    "id": "q_health_03",
+    "category": "health",
+    "author": "ジム・ローン",
+    "content": "体は、あなたが住む唯一の家だ。",
+    "created_at": 1776994822240
+  },
+  {
+    "id": "q_health_04",
+    "category": "health",
+    "author": "マハトマ・ガンディー",
+    "content": "健康は、富の真の富である。",
+    "created_at": 1776994822241
+  },
+  {
+    "id": "q_health_05",
+    "category": "health",
+    "author": "セネカ",
+    "content": "心の病は、体の病より重い。",
+    "created_at": 1776994822242
+  },
+  {
+    "id": "q_health_06",
+    "category": "health",
+    "author": "ブッダ（伝承）",
+    "content": "健康は最大の宝。",
+    "created_at": 1776994822243
+  },
+  {
+    "id": "q_health_07",
+    "category": "health",
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "睡眠の最初の一秒が、一日の質を決める。",
+    "created_at": 1776994822244
+  },
+  {
+    "id": "q_health_08",
+    "category": "health",
+    "author": "アリストテレス",
+    "content": "適度は、快の中の徳だ。",
+    "created_at": 1776994822245
+  },
+  {
+    "id": "q_health_09",
+    "category": "health",
+    "author": "ヴィルギル",
+    "content": "健康な心は、健康な体の中に宿る。",
+    "created_at": 1776994822246
+  },
+  {
+    "id": "q_health_10",
+    "category": "health",
+    "author": "孔子",
+    "content": "仁者は寿ぐ。",
+    "created_at": 1776994822247
+  },
+  {
+    "id": "q_heartbreak_01",
+    "category": "heartbreak",
+    "author": "アルフレッド・テニスン",
+    "content": "愛し、失うより、愛さぬほうが辛い。",
+    "created_at": 1776994822248
+  },
+  {
+    "id": "q_heartbreak_02",
+    "category": "heartbreak",
+    "author": "ヘレン・ケラー",
+    "content": "涙のあとには、虹が待っている。",
+    "created_at": 1776994822249
+  },
+  {
+    "id": "q_heartbreak_03",
+    "category": "heartbreak",
+    "author": "マヤ・アンジェロウ",
+    "content": "すべての嵐は、いつか過ぎ去る。",
+    "created_at": 1776994822250
+  },
+  {
+    "id": "q_heartbreak_04",
+    "category": "heartbreak",
+    "author": "ラビンドラナート・タゴール",
+    "content": "別れは次の出会いの扉だ。",
+    "created_at": 1776994822251
+  },
+  {
+    "id": "q_heartbreak_05",
+    "category": "heartbreak",
+    "author": "レオ・ブスカーリア",
+    "content": "痛みは、成長のための郵便だ。",
+    "created_at": 1776994822252
+  },
+  {
+    "id": "q_heartbreak_06",
+    "category": "heartbreak",
+    "author": "カーニー・ロス",
+    "content": "心が折れても、愛の記憶は折れない。",
+    "created_at": 1776994822253
+  },
+  {
+    "id": "q_heartbreak_07",
+    "category": "heartbreak",
+    "author": "ウィリアム・シェイクスピア",
+    "content": "別れは甘い悲しみだ。",
+    "created_at": 1776994822254
+  },
+  {
+    "id": "q_heartbreak_08",
+    "category": "heartbreak",
+    "author": "マルクス・アウレリウス",
+    "content": "失ったものより、残った自分を見よ。",
+    "created_at": 1776994822255
+  },
+  {
+    "id": "q_heartbreak_09",
+    "category": "heartbreak",
+    "author": "エミリー・ディキンソン",
+    "content": "痛みには終わりがある。",
+    "created_at": 1776994822256
+  },
+  {
+    "id": "q_heartbreak_10",
+    "category": "heartbreak",
+    "author": "老子",
+    "content": "柔よく剛を制す。",
+    "created_at": 1776994822257
+  },
+  {
+    "id": "q_new_environment_01",
+    "category": "new_environment",
+    "author": "ヘレン・ケラー",
+    "content": "人生は冒険か、何もないかだ。",
+    "created_at": 1776994822258
+  },
+  {
+    "id": "q_new_environment_02",
+    "category": "new_environment",
+    "author": "ヘンリー・ミラー",
+    "content": "目的地ではなく、旅そのものが報酬だ。",
+    "created_at": 1776994822259
+  },
+  {
+    "id": "q_new_environment_03",
+    "category": "new_environment",
+    "author": "マルクス・アウレリウス",
+    "content": "障害は道を曲げるが、止めはしない。",
+    "created_at": 1776994822260
+  },
+  {
+    "id": "q_new_environment_04",
+    "category": "new_environment",
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "踏み出した一歩が、新しい道を作る。",
+    "created_at": 1776994822261
+  },
+  {
+    "id": "q_new_environment_05",
+    "category": "new_environment",
+    "author": "孔子",
+    "content": "温故知新。",
+    "created_at": 1776994822262
+  },
+  {
+    "id": "q_new_environment_06",
+    "category": "new_environment",
+    "author": "セネカ",
+    "content": "変化は、生命の調味料だ。",
+    "created_at": 1776994822263
+  },
+  {
+    "id": "q_new_environment_07",
+    "category": "new_environment",
+    "author": "アリストテレス",
+    "content": "習慣は第二の天性なり。",
+    "created_at": 1776994822264
+  },
+  {
+    "id": "q_new_environment_08",
+    "category": "new_environment",
+    "author": "ブレーズ・パスカル",
+    "content": "人は島ではない。大陸の一片だ。",
+    "created_at": 1776994822265
+  },
+  {
+    "id": "q_new_environment_09",
+    "category": "new_environment",
+    "author": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+    "content": "居心地の悪さは、成長の前触れだ。",
+    "created_at": 1776994822266
+  },
+  {
+    "id": "q_new_environment_10",
+    "category": "new_environment",
+    "author": "ヘンリー・フォード",
+    "content": "失敗は、やり直す機会に他ならない。",
+    "created_at": 1776994822267
+  },
+  {
+    "id": "q_time_stress_01",
+    "category": "time_stress",
+    "author": "ベンジャミン・フランクリン",
+    "content": "時間は金なり。",
+    "created_at": 1776994822268
+  },
+  {
+    "id": "q_time_stress_02",
+    "category": "time_stress",
+    "author": "ウィリアム・ペン",
+    "content": "時間は欲しい者には短く、楽しむ者には長い。",
+    "created_at": 1776994822269
+  },
+  {
+    "id": "q_time_stress_03",
+    "category": "time_stress",
+    "author": "ピーター・ドラッカー",
+    "content": "時間は希少資源である。",
+    "created_at": 1776994822270
+  },
+  {
+    "id": "q_time_stress_04",
+    "category": "time_stress",
+    "author": "スティーブ・ジョブズ",
+    "content": "時間は有限だ。他人の人生を生きるな。",
+    "created_at": 1776994822271
+  },
+  {
+    "id": "q_time_stress_05",
+    "category": "time_stress",
+    "author": "セネカ",
+    "content": "人生は短いが、無駄にすれば長い。",
+    "created_at": 1776994822272
+  },
+  {
+    "id": "q_time_stress_06",
+    "category": "time_stress",
+    "author": "孔子",
+    "content": "逝者如斯夫、不舍昼夜。",
+    "created_at": 1776994822273
+  },
+  {
+    "id": "q_time_stress_07",
+    "category": "time_stress",
+    "author": "マルクス・アウレリウス",
+    "content": "今ここに集中せよ。",
+    "created_at": 1776994822274
+  },
+  {
+    "id": "q_time_stress_08",
+    "category": "time_stress",
+    "author": "レオ・トルストイ",
+    "content": "明日のための唯一の時刻は、今だ。",
+    "created_at": 1776994822275
+  },
+  {
+    "id": "q_time_stress_09",
+    "category": "time_stress",
+    "author": "アール・ナイチンゲール",
+    "content": "時間を支配する者が、人生を支配する。",
+    "created_at": 1776994822276
+  },
+  {
+    "id": "q_time_stress_10",
+    "category": "time_stress",
+    "author": "チャールズ・ダーウィン",
+    "content": "忍耐は、時間を味方につける。",
+    "created_at": 1776994822277
+  },
+  {
+    "id": "q_comparison_01",
+    "category": "comparison",
+    "author": "セネカ",
+    "content": "他人と比べるな。自分の昨日と比べよ。",
+    "created_at": 1776994822278
+  },
+  {
+    "id": "q_comparison_02",
+    "category": "comparison",
+    "author": "マルクス・アウレリウス",
+    "content": "隣人の庭の緑は、遠くから濃く見える。",
+    "created_at": 1776994822279
+  },
+  {
+    "id": "q_comparison_03",
+    "category": "comparison",
+    "author": "エピクテトス",
+    "content": "自由とは、欲するものを欲さないことだ。",
+    "created_at": 1776994822280
+  },
+  {
+    "id": "q_comparison_04",
+    "category": "comparison",
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "あなた自身の道を歩め。",
+    "created_at": 1776994822281
+  },
+  {
+    "id": "q_comparison_05",
+    "category": "comparison",
+    "author": "孔子",
+    "content": "君子は周せず、小人は比而不周。",
+    "created_at": 1776994822282
+  },
+  {
+    "id": "q_comparison_06",
+    "category": "comparison",
+    "author": "ブッダ（伝承）",
+    "content": "比較は苦しみの母。",
+    "created_at": 1776994822283
+  },
+  {
+    "id": "q_comparison_07",
+    "category": "comparison",
+    "author": "ヘンリー・フォード",
+    "content": "競争相手を見るな。顧客を見よ。",
+    "created_at": 1776994822284
+  },
+  {
+    "id": "q_comparison_08",
+    "category": "comparison",
+    "author": "マヤ・アンジェロウ",
+    "content": "あなたはすでに十分だ。",
+    "created_at": 1776994822285
+  },
+  {
+    "id": "q_comparison_09",
+    "category": "comparison",
+    "author": "ウィリアム・コングリーブ",
+    "content": "嫉妬は怪物だ。",
+    "created_at": 1776994822286
+  },
+  {
+    "id": "q_comparison_10",
+    "category": "comparison",
+    "author": "フリードリヒ・ニーチェ",
+    "content": "深淵を覗く時、深淵もまたこちらを覗いているのだ。",
+    "created_at": 1776994822287
+  },
+  {
+    "id": "q_motivation_01",
+    "category": "motivation",
+    "author": "ウォルト・ディズニー",
+    "content": "始めるために必要なのは、魔法ではない。決断だ。",
+    "created_at": 1776994822288
+  },
+  {
+    "id": "q_motivation_02",
+    "category": "motivation",
+    "author": "マーティン・ルーサー・キング・ジュニア",
+    "content": "飛べなくても走れ。走れなくても歩け。",
+    "created_at": 1776994822289
+  },
+  {
+    "id": "q_motivation_03",
+    "category": "motivation",
+    "author": "孔子",
+    "content": "知る者は好む者に如かず、好む者は楽む者に如かず。",
+    "created_at": 1776994822290
+  },
+  {
+    "id": "q_motivation_04",
+    "category": "motivation",
+    "author": "ヴィンス・ロンバルディ",
+    "content": "勝つことはすべてではない。勝つことが唯一だ。",
+    "created_at": 1776994822291
+  },
+  {
+    "id": "q_motivation_05",
+    "category": "motivation",
+    "author": "ヘレン・ケラー",
+    "content": "意志は、目的のために世界を動かす。",
+    "created_at": 1776994822292
+  },
+  {
+    "id": "q_motivation_06",
+    "category": "motivation",
+    "author": "ナポレオン・ヒル",
+    "content": "望みを明確にせよ。そうすれば道は開ける。",
+    "created_at": 1776994822293
+  },
+  {
+    "id": "q_motivation_07",
+    "category": "motivation",
+    "author": "ジム・ローン",
+    "content": "動機は始まりを作り、習慣は未来を作る。",
+    "created_at": 1776994822294
+  },
+  {
+    "id": "q_motivation_08",
+    "category": "motivation",
+    "author": "アリストテレス",
+    "content": "我々は繰り返し行うことで卓越する。",
+    "created_at": 1776994822295
+  },
+  {
+    "id": "q_motivation_09",
+    "category": "motivation",
+    "author": "セネカ",
+    "content": "小さな日々の努力が、大きな物語になる。",
+    "created_at": 1776994822296
+  },
+  {
+    "id": "q_motivation_10",
+    "category": "motivation",
+    "author": "ヘンリー・フォード",
+    "content": "失敗は、やり直すチャンスに過ぎない。",
+    "created_at": 1776994822297
+  },
+  {
+    "id": "q_indecision_01",
+    "category": "indecision",
+    "author": "エピクテトス",
+    "content": "自由とは、自分の意志を選ぶ力だ。",
+    "created_at": 1776994822298
+  },
+  {
+    "id": "q_indecision_02",
+    "category": "indecision",
+    "author": "ブレーズ・パスカル",
+    "content": "心には理由がない。それでもある。",
+    "created_at": 1776994822299
+  },
+  {
+    "id": "q_indecision_03",
+    "category": "indecision",
+    "author": "ラルフ・ワルド・エマソン",
+    "content": "一歩踏み出せば、道は現れる。",
+    "created_at": 1776994822300
+  },
+  {
+    "id": "q_indecision_04",
+    "category": "indecision",
+    "author": "孔子",
+    "content": "思い切って行え。躊躇するな。",
+    "created_at": 1776994822301
+  },
+  {
+    "id": "q_indecision_05",
+    "category": "indecision",
+    "author": "マルクス・アウレリウス",
+    "content": "迷いは、情報不足のサインだ。",
+    "created_at": 1776994822302
+  },
+  {
+    "id": "q_indecision_06",
+    "category": "indecision",
+    "author": "セネカ",
+    "content": "決断は、勇気の別名だ。",
+    "created_at": 1776994822303
+  },
+  {
+    "id": "q_indecision_07",
+    "category": "indecision",
+    "author": "アリストテレス",
+    "content": "徳は、中庸の習慣である。",
+    "created_at": 1776994822304
+  },
+  {
+    "id": "q_indecision_08",
+    "category": "indecision",
+    "author": "老子",
+    "content": "千里の行も足下に始まる。",
+    "created_at": 1776994822305
+  },
+  {
+    "id": "q_indecision_09",
+    "category": "indecision",
+    "author": "ウィリアム・ジェームズ",
+    "content": "行動が信念を作る。",
+    "created_at": 1776994822306
+  },
+  {
+    "id": "q_indecision_10",
+    "category": "indecision",
+    "author": "スーザン・ソンタグ",
+    "content": "選択は、自己の輪郭を決める。",
+    "created_at": 1776994822307
+  }
+]

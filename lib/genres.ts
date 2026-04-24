@@ -51,13 +51,6 @@ export const GENRE_LABELS: Record<WorryGenre, string> = {
   indecision: "決められない・迷う",
 };
 
-export type Bottle = {
-  id: string;
-  text: string;
-  genre: WorryGenre;
-  createdAt: number;
-};
-
 export function normalizeGenre(raw: string): WorryGenre | null {
   if ((WORRY_GENRES as readonly string[]).includes(raw)) return raw as WorryGenre;
   return null;

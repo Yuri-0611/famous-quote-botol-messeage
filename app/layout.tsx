@@ -21,10 +21,27 @@ export const metadata: Metadata = {
   metadataBase: siteUrl.startsWith("http") ? new URL(siteUrl) : undefined,
   title: "悩み別・名言ボトル｜夜の海へ",
   description:
-    "名言をボトルにして海へ。悩みのジャンルに合わせて拾う。Turso で世界中のひとつの海を共有します。",
+    "いまの悩みを海に流し、同じジャンルの名言をひとつ受け取る体験。Turso に悩みと名言を蓄えます。",
   openGraph: {
+    type: "website",
+    locale: "ja_JP",
+    siteName: "悩み別・名言ボトル",
     title: "悩み別・名言ボトル",
-    description: "夜の海に流す一言。波から届く一言。",
+    description: "悩みを流し、名言を受け取る。何度でも。",
+    images: [
+      {
+        url: "/opengraph-image",
+        width: 1200,
+        height: 630,
+        alt: "悩み別・名言ボトル",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "悩み別・名言ボトル",
+    description: "悩みを流し、名言を受け取る。何度でも。",
+    images: ["/twitter-image"],
   },
 };
 

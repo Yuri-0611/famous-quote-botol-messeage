@@ -15,7 +15,7 @@ export function LegalFooter() {
         </Link>
       </nav>
       <p className="mt-3 text-[10px] leading-relaxed text-slate-600">
-        投稿は誰でも拾える海に流れます。本文に個人情報を含めないでください。
+        悩みの投稿はデータベースに保存されます。個人情報は書かないでください。
       </p>
     </footer>
   );

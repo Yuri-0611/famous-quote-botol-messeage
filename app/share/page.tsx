@@ -22,7 +22,7 @@ export async function generateMetadata({ searchParams }: Props): Promise<Metadat
   const site = getSiteUrl();
   if (!quote) {
     return {
-      title: "名言をシェア | 名言ボトル",
+      title: "名言をシェア | 悩み別・名言ボトル",
       metadataBase: new URL(site),
     };
   }
@@ -30,10 +30,10 @@ export async function generateMetadata({ searchParams }: Props): Promise<Metadat
   const titleShort = quote.length > 32 ? `${quote.slice(0, 32)}…` : quote;
   return {
     metadataBase: new URL(site),
-    title: `「${titleShort}」| 心に響く 名言ボトル`,
+    title: `「${titleShort}」| 悩み別・名言ボトル`,
     description: quote.slice(0, 160),
     openGraph: {
-      title: "心に響く 名言ボトル",
+      title: "悩み別・名言ボトル",
       description: quote,
       type: "article",
       images: [
@@ -48,7 +48,7 @@ export async function generateMetadata({ searchParams }: Props): Promise<Metadat
     },
     twitter: {
       card: "summary_large_image",
-      title: "心に響く 名言ボトル",
+      title: "悩み別・名言ボトル",
       description: quote,
       images: [ogImage],
     },
@@ -81,10 +81,10 @@ export default async function ShareQuotePage({ searchParams }: Props) {
       </h1>
       <div className="flex flex-col gap-3 sm:flex-row sm:justify-center">
         <Link
-          href="/catch"
+          href="/"
           className="inline-flex items-center justify-center rounded-2xl border border-white/20 bg-white/10 px-6 py-3 text-sm font-semibold text-white hover:bg-white/15"
         >
-          拾いにいく
+          トップで悩みを流す
         </Link>
         <Link href="/" className="inline-flex items-center justify-center text-sm text-cyan-200/90 underline-offset-4 hover:underline">
           トップへ
