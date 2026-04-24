@@ -15,10 +15,33 @@ const notoSansJp = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://famous-quote-bottle-message.vercel.app"),
-  title: "悩み別・名言ボトル｜夜の海へ",
-  description:
-    "いまの悩みを海に流し、同じジャンルの名言をひとつ受け取る体験。Turso に悩みと名言を蓄えます。",
+  metadataBase: new URL(
+    process.env.NEXT_PUBLIC_SITE_URL || "https://famous-quote-bottle-message.vercel.app",
+  ),
+  title: "悩み別・名言ボトル",
+  description: "あなたの悩みに、偉人の言葉が流れ着く。",
+  openGraph: {
+    title: "悩み別・名言ボトル",
+    description: "あなたの悩みに、偉人の言葉が流れ着く。",
+    url: "/",
+    siteName: "悩み別・名言ボトル",
+    images: [
+      {
+        url: "/opengraph-image.png",
+        width: 1200,
+        height: 630,
+        alt: "悩み別・名言ボトルのOGP画像",
+      },
+    ],
+    locale: "ja_JP",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "悩み別・名言ボトル",
+    description: "あなたの悩みに、偉人の言葉が流れ着く。",
+    images: ["/twitter-image.png"],
+  },
 };
 
 export default function RootLayout({
